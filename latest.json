@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.15.1-scraplink-private-alpha",
-  "release_sequence": 3,
+  "version": "0.15.2-scraplink-private-alpha",
+  "release_sequence": 4,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "d3c140709cc7a7b7258a52c3aed4d1266661f513a3347d372a2a4a4a8cb0d141",
-  "size_bytes": 356727133,
-  "published_at": "2026-07-22T05:43:13.654495Z",
+  "sha256": "bd16c1fd12c62716fb9c0e916a6e0570d221ccbb542b4999cc2d213fbdad8058",
+  "size_bytes": 356859855,
+  "published_at": "2026-07-22T06:25:29.762129Z",
   "notes": [
-    "Private invite-only account creation at scrap-link.com.",
-    "Authenticated private installer and update downloads.",
-    "Windows 10 and 11 one-click install with protected player data."
+    "Correct hosted brain status after successful replies.",
+    "Active Awareness no longer appears to switch the text provider.",
+    "Signed private Windows 10 and 11 update."
   ],
-  "signature": "f+NNnX2wVoQJyNaAola/8nHUQVmvQH7DW/Dnn2BhYGzp1KJSfTgiQushHpT4jzfBE/EW3c9NccbSOaR/0EoXNZy9eiBRTmzQdpXOZp7N+i0KORsBsS6Aa4ybK7aRgmDfZOL9KG6f4llQ7hEx4mYzSrehEropTnWDl5qyChzcPlOmgf+UbwjaPoKdcJSMEyxaU5sNeX1fw1S0zH91xD/WA9D3EcLz0CCyupkafSM+zBIG5PpxXZ2B4f10U2u2INWVkoV9aXvs1NPpkoJeDITmWUo49PDB0k+ejv+wLW9vnrl/il3n4CtubPwAm5Me/hiMXXFjqvuFLVBI2A0FkxJqIkDmPzH8M7hlZDuWcQACqpur46/tX8ndz6/SjTiTAwhALEobytRFW5KImSyqj1RbCk3ZBAiXbBqFmbgPrfijtAYdhXq6giew6kLgS96ehRTel1FP+7Wi/Yarh7gylB6ffsyNp+YrqJEl4QQMjPygJbOrbCYZsOpf+xBLb+VrW9gz"
+  "signature": "HzHduJyyXS7MdjtQa+ZvzGCRnNhwD2L7z1YBqSo0SKZhlTNirYbyIKf6Zk+k3vfntXB/u6JHVBJXWcVnnbnSwgitmgsOnVqd38uI8OuGFPq31RCu0qxwpJKiv1u9FlYVJPimnBl+fAo+g+MtT5yGzrWboezkAcZ8Oa49af47wD8OHQuENqf9R6kFZyRMnI1wkADm33TE8ZmKIrBEjEqFfjLCeS3JCO64bK/oxMlA3n0UJQKrqK59sBtoYvlxJHVAIoc+IN8367MODGnvDBL6NOTs/yV92FyQaNCyERjsIhZpe0Or5M66VI1OzKvUwdVkbpjIiDmRbYwT9TGhNj4lvrRbimB+YjhHC/3ydEq8iU6Krv982sfGdVga/4amJ2bPNzXjTP9g9OcFViIeebaJ3KjnYnpKs+VN82baqlUoJLe+mu3FIPz4R2ohG0wqTtgjcW0M0uMkWdl0iXp17abGZpW6OuMD9F4CUwrI0L42FFwama6pjRvZFMIySYCqLqWj"
 }

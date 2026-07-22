@@ -1,17 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.14.1-phase4-hosted-alpha-rc2",
-  "release_sequence": 1,
+  "version": "0.15.0-scraplink-private-alpha",
+  "release_sequence": 2,
   "channel": "alpha",
-  "package_url": "https://github.com/eightyhd6990/scrap-companion-releases/releases/download/v0.14.1-phase4-hosted-alpha-rc2/Scrap-Companion-v0.14.1-phase4-hosted-alpha-rc2.zip",
-  "sha256": "cfe81e7c6afd3b3757fbf9bac79090a7326cda4222fa1a95a8920de4baa5e028",
-  "size_bytes": 53634490,
-  "published_at": "2026-07-22T02:28:05.580172Z",
+  "package_type": "windows_installer",
+  "package_url": "https://github.com/eightyhd6990/scrap-companion-releases/releases/download/v0.15.0-scraplink-private-alpha/ScrapLink-Setup.exe",
+  "sha256": "7019d0b4e14cadace9f409572c5f3400805bf8f7db51b0c069525558e10393f4",
+  "size_bytes": 356704299,
+  "published_at": "2026-07-22T03:30:36.627243Z",
   "notes": [
-    "Live hosted Scrap AI through the private Render service.",
-    "Signed one-click updates preserve each tester's login, settings, and memories.",
-    "UPDATE button and automatic startup checks added."
+    "ScrapLink private Windows 10/11 alpha with hosted AI and crew testing.",
+    "One-click per-user installation with no Python or model setup required.",
+    "Signed in-app updates preserve each player's settings and memories."
   ],
-  "signature": "bfiWtxeWDt6ykXBE/kQUFkQ3shWpeqwhpAhuqAfEDFsrYUy++bvlVx0h39ak3UqM3F2cs0SnI8OuzTAV/gIdqeNjgsLWLAyMEEld9l9307hl+e8jLIAuojLWHApcz/8bxV8LMep5IHR9CMm+wjMKtZfQ+bHXk4Q95AyX7Xh7YEqlGpND7JkC6roaYJiG243FYGD3gDsJePOWlwXsHtbDgp+tiMrL8mqmy+5m2bK6g0hA2cK8UPEjg3Fbg3ChsB0OwaWUAeGE3/dXi8JdybCEADB+poeF/mA11RqRRG75fn9hnhD2XcG74zLRhzG09Nu3jnrO8DsX7pz7/AjckgGLdEz6hxkk6DtfnMd0OVPQrxtzuxvA6cngHf2NJCv8nG0JRhpIotHSzyBOwGd2juPZWmJanjZD/aBaqO4WMn/Na+4yXqkY1fTx1DSptoCNkSEBD+rUSK9DtpRYV7o2yVWZ0EG7c9IkUJudYJX4P57cUvVSyx3irXmCnXwMC4tiBUtd"
+  "signature": "GRuj4Dc6727X93ipqEa1uFd0WtTiiwPrTfkqPDiVc1cFb8gtR9KK7x2thZ8stbDbldPJT/I97bjPSW4fq/Bna43RZC4dgw6NEZ1ogpW++pjHFcCeB3pT5pNLaGD55XgHSJr3dUCtl9SwLwdifVLypbi+OZ5/Kb2XUlsZ2qR9CSFjA7ThkDtoIDzTZXC1n76dJUiKIeyX+5wl+jIKgbwWIgMQ4dR7mlYag/XSZF+HecgAHwz2GquQPtrFpXFzOoni1ZnDjCBmsRCfOHCzAwK9GFPlHQgQttYOKOwJ0m5rQHmoSFLYyPJIID8ssdim7Ba88S3BGtCjlvsscpVJMALfxp3+pRy7cWOIQkLEpfAJU/G9iTBe9KxF1otCAfUCQ8B6xXe1WXwHUFn7vhmH0p6joQ8Da16xzLPLNswFnIaeLJp44C8sCCZiNJcCR4OC9YIplLS6zqpKQ8zCOlROJCbjfo1lMLjtTxfxmVgg8yB549F1buRAoLwcEVj1KeqgBvph"
 }

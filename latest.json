@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.15.4-scraplink-private-alpha",
-  "release_sequence": 6,
+  "version": "0.15.5-scraplink-private-alpha",
+  "release_sequence": 7,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "ab89ea5f892a8336325704a4221dfa0bdb6584979a75149b7a3a3a3ecf66c93a",
-  "size_bytes": 356795955,
-  "published_at": "2026-07-22T08:40:33.921035Z",
+  "sha256": "221f1be07edd43ae07260a2d256940a0dbf25b41c7527cd9d877ee93763b7d39",
+  "size_bytes": 356846290,
+  "published_at": "2026-07-22T10:55:45.337288Z",
   "notes": [
-    "Hosted gpt-4o-transcribe speech recognition for signed-in testers.",
-    "Full replies now speak as one complete utterance without first-sentence cutoff.",
-    "More natural conversational personality and lighter robot voice processing.",
-    "Improved Hey Scrap recovery using secure second-pass wake confirmation."
+    "Continuous voice conversation now reopens a 15-second no-wake reply window exactly when Scrap finishes speaking.",
+    "Star Citizen intelligence now uses source-backed LIVE build, ship, cargo, crew, mission, location, item, and blueprint data with no-guess safeguards.",
+    "Nyx and the reviewed Alpha 4.9 Frontier Tensions content are corrected and current; Scrap checks the LIVE game-data build daily.",
+    "Rare contextual relationship questions help Scrap learn the player without turning conversation into a questionnaire."
   ],
-  "signature": "N5/sVmme5mDT1pp/mDd1ybqic8TCLC5HpfVCyiBOd5GiGIsswWIbJYuR196VMBljFFrgp9NJmjbGmP43NCBl1Jp9fK/kHLwJ6kLht4tmdsYjI/3br40MwCZ9xHhEAzhmy/T+vjXgkKMoI2zLUuY9pgUW+w7Z4pNGfMXPBZVBx1Rt/J3a3srXlTU9OgHoFZMs9b5kzW/Pw1CE/speCexrG2VbutQIj/0aI0cXdUOQssLH3wgGtDU+GFfkGtCoewkc1fmcgUP8AKcBlhtx0pXgHuY2qCg61/szdaS0LU+Ga5uKzy6/0l2S7/5vVrT+tEzaw0oahw476Le2P+nVAZCtYeNVeu7XSpH4aDpONX0XQpIZPFz4aKsJBPHoF9SvsFSckqRtOF3q1j+85gXPbSqq514kwodVFKSYusMSQOg+2Z3826jf+dOilzUtiYDTX+Qhcqgn1hoZZgYbuibH5mFNOUcmmMev6FrlOo4DVVh+bwzncSoXxDGlcweMECiqZYwq"
+  "signature": "MwsT9DMqWmm2euJcHXPGaOc2Ugtni9b0LBQYJjf2iAYFrx5vZxHgg1P9wRqrSA4SbJmMJntGn3inGQRnIRFZnuIym//dYlObkbE8fqF2YJ141UUyrrsOH2PVkCVg8NBLpMJSvqBDCnqXyfrtuDPtjm4Ly0qgbMBGRHJTdG0dHe/Q39MkxoLRE4QX2wjEMOm1rihysGh1r7pM3uaz3pDgXhFvz6+JJvzE9UTbQXd3wTcXxMooJy/uH1LIPf39ArrM54HWW47br91jI6ci/pX56JF+6E73V/qd4Dyuuj7KA6HhoWsVppVsw6+fRcWjatWF+vRzW+VbHhiOnOjOxN45Rssl1CqwA1hYlI6JKYhfTV3RDzS7VLb+rc1GaR+1tGc/DLBOa/x8AjavwqC1p5sci03objpK5CBAlU4sT8H4hvkLTiSgudv8/WPGCSuO8GwCv/kOqqr+TbR51Tw+wwHcjSvKd9NonrJ019lCss7nL/VOGd1r1w03PODkKk1/Hg5f"
 }

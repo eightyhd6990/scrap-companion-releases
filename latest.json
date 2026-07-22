@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "minimum_updater_version": 1,
+  "version": "0.14.1-phase4-hosted-alpha-rc2",
+  "release_sequence": 1,
+  "channel": "alpha",
+  "package_url": "https://github.com/eightyhd6990/scrap-companion-releases/releases/download/v0.14.1-phase4-hosted-alpha-rc2/Scrap-Companion-v0.14.1-phase4-hosted-alpha-rc2.zip",
+  "sha256": "cfe81e7c6afd3b3757fbf9bac79090a7326cda4222fa1a95a8920de4baa5e028",
+  "size_bytes": 53634490,
+  "published_at": "2026-07-22T02:28:05.580172Z",
+  "notes": [
+    "Live hosted Scrap AI through the private Render service.",
+    "Signed one-click updates preserve each tester's login, settings, and memories.",
+    "UPDATE button and automatic startup checks added."
+  ],
+  "signature": "bfiWtxeWDt6ykXBE/kQUFkQ3shWpeqwhpAhuqAfEDFsrYUy++bvlVx0h39ak3UqM3F2cs0SnI8OuzTAV/gIdqeNjgsLWLAyMEEld9l9307hl+e8jLIAuojLWHApcz/8bxV8LMep5IHR9CMm+wjMKtZfQ+bHXk4Q95AyX7Xh7YEqlGpND7JkC6roaYJiG243FYGD3gDsJePOWlwXsHtbDgp+tiMrL8mqmy+5m2bK6g0hA2cK8UPEjg3Fbg3ChsB0OwaWUAeGE3/dXi8JdybCEADB+poeF/mA11RqRRG75fn9hnhD2XcG74zLRhzG09Nu3jnrO8DsX7pz7/AjckgGLdEz6hxkk6DtfnMd0OVPQrxtzuxvA6cngHf2NJCv8nG0JRhpIotHSzyBOwGd2juPZWmJanjZD/aBaqO4WMn/Na+4yXqkY1fTx1DSptoCNkSEBD+rUSK9DtpRYV7o2yVWZ0EG7c9IkUJudYJX4P57cUvVSyx3irXmCnXwMC4tiBUtd"
+}

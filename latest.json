@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.17.0-phase4-verse-knowledge",
-  "release_sequence": 10,
+  "version": "0.17.1-phase4-voice-hotfix",
+  "release_sequence": 11,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "81f550b125e5fd39b35d99996f6e8c4df660c41a9bcbf895b6c5db0af6762441",
-  "size_bytes": 357088105,
-  "published_at": "2026-07-22T22:40:10.155688Z",
+  "sha256": "4c6c6c6e399c004c9fe36389d60512dc6fd1d9cd31e6418b28f208e3d302adcf",
+  "size_bytes": 356914763,
+  "published_at": "2026-07-22T23:17:54.442630Z",
   "notes": [
-    "Private fleet manager keeps each player's owned ships local and separate from shared ship facts.",
-    "Private inventory history remembers current and past item locations without uploading ownership, quantities, containers, screenshots, audio, or conversations.",
-    "Opt-in anonymous Verse Knowledge uses exact deduplication, independent-player consensus, patch history, and conflict quarantine.",
-    "Large private updates now use verified 8 MB byte ranges with automatic retries and a final signed SHA-256 check.",
-    "Shared lookup is available by default; contributions require explicit consent and can be turned off at any time."
+    "Hey Scrap by itself now acknowledges the player and then opens a fresh 15-second command-listening window.",
+    "Inline phrases such as Hey Scrap show my fleet still use the fast single-capture path.",
+    "Post-answer replies reopen a 15-second no-wake conversation window after Scrap finishes speaking.",
+    "Voice-operation deadlines now cover microphone capture plus hosted transcription, preventing late transcripts from being discarded.",
+    "Private fleet, inventory history, Verse Knowledge, settings, login, and memories are unchanged and preserved."
   ],
-  "signature": "mdLO+xrIMlftmfsObNCUKD04pdhZhUp6LhFwoyoFbNtq2vSbqKxII4Pj+J2xKEPkhgdOQ379eklabNXO9nG1H5UI/kIUiDFf8Yk1JEBzpkhl5ETulnnT2JWebmVnKVBx/yi9R8TMobl9Qn12mA5EpKX88Xd1hVIQmpNeFPw5xB9mOMHEbVDd686zr4rkKiu53rdlTTpKRPGcQKtOLQAv0JrJ3vxybjmCAZfDqgcCLdjRKPJUG937Egrv3Dnmb/5oP7IZGTCExwly45sD54dkoYdZFTJsQQdh1eMGAJiwC8dW7upeVuxGdh2SX0zwArzV8QeqVACcrlBVEqvcOvBxVnX2FwCgnS/I5/o8BfENAyCqExxgseiv/bGZOeDiZTG8jtibT6sNu8E9kOZhK0vAVqcu/dVOK5toeg2ZIVe+j+dUrqRasSGIBNs5XqIfZ0iw0mQoiGQIze5PTSYp9SsdpMw1VFACvtZEitW4aU51ngOJemYqWhnLUfYdZnbp+zXg"
+  "signature": "nz/0A8m1TOUnmAWvbSOkTx3CVcxhD7RsUA6CEpiRkWOXOfJrDWarBk0xEAZtuBAOOycxNhvsCGHJ2792Kr3AP24KPBNJGXTykxG1cmn7D9arwpNVVN0buUgnGjkxgSE3hyZHekn3GHcpkBYPZNtDl6fp33nJkM9U2SkWauPpxvRERdkiIx9DtxNkQtcbkBxPQMT1xvAmtB70ZBQgDxP3wGS7xAw48Q2PJ6Ui8cvl9qhYxCzzd4tsshnW+boPKqZvDNXLwH0bzv2t/cpx54DyaGGwN/FSPqNNstoYx7l96S32pRHN5aMRCoALAn68I6JMqkqctnzHw3eBh0Niw98NqDW1xhegfcOcuzasYZN3Iw9XHxb/iHoS1JNYcRiYYFyXh3D116xWlBEMZFMy5EHo9u2PR75vMC5arYtE6tNu/yhIWSU3N8/PmOi9KBXhuydI00jZky31O1bz4HLM8n3m22TA7j86D6QIjWTgv1GtNb6zudWsSrpF+kWOXf8ahHPV"
 }

@@ -2,18 +2,19 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.17.0-phase4-verse-knowledge",
-  "release_sequence": 9,
+  "release_sequence": 10,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "e4ee28d062752d105d8bd9c98ef58bb494158f3642453c1ec36c34d9d96c5283",
-  "size_bytes": 356776116,
-  "published_at": "2026-07-22T22:16:38.525752Z",
+  "sha256": "81f550b125e5fd39b35d99996f6e8c4df660c41a9bcbf895b6c5db0af6762441",
+  "size_bytes": 357088105,
+  "published_at": "2026-07-22T22:40:10.155688Z",
   "notes": [
     "Private fleet manager keeps each player's owned ships local and separate from shared ship facts.",
     "Private inventory history remembers current and past item locations without uploading ownership, quantities, containers, screenshots, audio, or conversations.",
-    "Opt-in anonymous Verse Knowledge learns public Star Citizen facts through consensus, exact deduplication, patch history, and conflict quarantine.",
+    "Opt-in anonymous Verse Knowledge uses exact deduplication, independent-player consensus, patch history, and conflict quarantine.",
+    "Large private updates now use verified 8 MB byte ranges with automatic retries and a final signed SHA-256 check.",
     "Shared lookup is available by default; contributions require explicit consent and can be turned off at any time."
   ],
-  "signature": "eIQ8jOMXoYoFojLw5FX4owvWPwywJiSqf/V23q2l6mnk5r4iHZaTUsAsSdWyaIqlxz75PEkUktlywp/UYkzSfJ95rDgeji2zmX/OUTlDWnf0JYJcOklelkZ2sEJN75P165jWGvT2INqxFtiTnGHaQ5ab65mx+hTkZGkp36ET5wGgGcNkEAbFl0vaqm7VmDTjKb6ywC5Aq/iLhxtFfkO5S3Mepzu7xhffEN0GAtIXChAb+nmpCZy+bmwRZD73eutrFdnrQJ1DBQ5YjdPwnl9bcORMBnagWaIMdwhA5XuYjKLeHzk4hD8amysVlsW9FOOlw/qIQauAIdrnP/DRsvAltH56SQjyi811joIymMXqClMz8dlFpA4zbZb6aoYL6pXRu3YK34dj0hVAwJIDAVTrYE1K8vhSJODJZmjd/7e2zVKNPu6CXtX1ua5ebNVqiK/aielsfNKkYf7bYOpp8tNWeoiNrtDlO60tAVHDT78WMWAb7eDgSvNrKQAcyhXvckax"
+  "signature": "mdLO+xrIMlftmfsObNCUKD04pdhZhUp6LhFwoyoFbNtq2vSbqKxII4Pj+J2xKEPkhgdOQ379eklabNXO9nG1H5UI/kIUiDFf8Yk1JEBzpkhl5ETulnnT2JWebmVnKVBx/yi9R8TMobl9Qn12mA5EpKX88Xd1hVIQmpNeFPw5xB9mOMHEbVDd686zr4rkKiu53rdlTTpKRPGcQKtOLQAv0JrJ3vxybjmCAZfDqgcCLdjRKPJUG937Egrv3Dnmb/5oP7IZGTCExwly45sD54dkoYdZFTJsQQdh1eMGAJiwC8dW7upeVuxGdh2SX0zwArzV8QeqVACcrlBVEqvcOvBxVnX2FwCgnS/I5/o8BfENAyCqExxgseiv/bGZOeDiZTG8jtibT6sNu8E9kOZhK0vAVqcu/dVOK5toeg2ZIVe+j+dUrqRasSGIBNs5XqIfZ0iw0mQoiGQIze5PTSYp9SsdpMw1VFACvtZEitW4aU51ngOJemYqWhnLUfYdZnbp+zXg"
 }

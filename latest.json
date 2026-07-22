@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.15.5-scraplink-private-alpha",
-  "release_sequence": 7,
+  "version": "0.17.0-phase4-verse-knowledge",
+  "release_sequence": 9,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "221f1be07edd43ae07260a2d256940a0dbf25b41c7527cd9d877ee93763b7d39",
-  "size_bytes": 356846290,
-  "published_at": "2026-07-22T10:55:45.337288Z",
+  "sha256": "e4ee28d062752d105d8bd9c98ef58bb494158f3642453c1ec36c34d9d96c5283",
+  "size_bytes": 356776116,
+  "published_at": "2026-07-22T22:16:38.525752Z",
   "notes": [
-    "Continuous voice conversation now reopens a 15-second no-wake reply window exactly when Scrap finishes speaking.",
-    "Star Citizen intelligence now uses source-backed LIVE build, ship, cargo, crew, mission, location, item, and blueprint data with no-guess safeguards.",
-    "Nyx and the reviewed Alpha 4.9 Frontier Tensions content are corrected and current; Scrap checks the LIVE game-data build daily.",
-    "Rare contextual relationship questions help Scrap learn the player without turning conversation into a questionnaire."
+    "Private fleet manager keeps each player's owned ships local and separate from shared ship facts.",
+    "Private inventory history remembers current and past item locations without uploading ownership, quantities, containers, screenshots, audio, or conversations.",
+    "Opt-in anonymous Verse Knowledge learns public Star Citizen facts through consensus, exact deduplication, patch history, and conflict quarantine.",
+    "Shared lookup is available by default; contributions require explicit consent and can be turned off at any time."
   ],
-  "signature": "MwsT9DMqWmm2euJcHXPGaOc2Ugtni9b0LBQYJjf2iAYFrx5vZxHgg1P9wRqrSA4SbJmMJntGn3inGQRnIRFZnuIym//dYlObkbE8fqF2YJ141UUyrrsOH2PVkCVg8NBLpMJSvqBDCnqXyfrtuDPtjm4Ly0qgbMBGRHJTdG0dHe/Q39MkxoLRE4QX2wjEMOm1rihysGh1r7pM3uaz3pDgXhFvz6+JJvzE9UTbQXd3wTcXxMooJy/uH1LIPf39ArrM54HWW47br91jI6ci/pX56JF+6E73V/qd4Dyuuj7KA6HhoWsVppVsw6+fRcWjatWF+vRzW+VbHhiOnOjOxN45Rssl1CqwA1hYlI6JKYhfTV3RDzS7VLb+rc1GaR+1tGc/DLBOa/x8AjavwqC1p5sci03objpK5CBAlU4sT8H4hvkLTiSgudv8/WPGCSuO8GwCv/kOqqr+TbR51Tw+wwHcjSvKd9NonrJ019lCss7nL/VOGd1r1w03PODkKk1/Hg5f"
+  "signature": "eIQ8jOMXoYoFojLw5FX4owvWPwywJiSqf/V23q2l6mnk5r4iHZaTUsAsSdWyaIqlxz75PEkUktlywp/UYkzSfJ95rDgeji2zmX/OUTlDWnf0JYJcOklelkZ2sEJN75P165jWGvT2INqxFtiTnGHaQ5ab65mx+hTkZGkp36ET5wGgGcNkEAbFl0vaqm7VmDTjKb6ywC5Aq/iLhxtFfkO5S3Mepzu7xhffEN0GAtIXChAb+nmpCZy+bmwRZD73eutrFdnrQJ1DBQ5YjdPwnl9bcORMBnagWaIMdwhA5XuYjKLeHzk4hD8amysVlsW9FOOlw/qIQauAIdrnP/DRsvAltH56SQjyi811joIymMXqClMz8dlFpA4zbZb6aoYL6pXRu3YK34dj0hVAwJIDAVTrYE1K8vhSJODJZmjd/7e2zVKNPu6CXtX1ua5ebNVqiK/aielsfNKkYf7bYOpp8tNWeoiNrtDlO60tAVHDT78WMWAb7eDgSvNrKQAcyhXvckax"
 }

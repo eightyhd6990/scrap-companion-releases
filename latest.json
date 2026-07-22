@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.15.2-scraplink-private-alpha",
-  "release_sequence": 4,
+  "version": "0.15.3-scraplink-private-alpha",
+  "release_sequence": 5,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "bd16c1fd12c62716fb9c0e916a6e0570d221ccbb542b4999cc2d213fbdad8058",
-  "size_bytes": 356859855,
-  "published_at": "2026-07-22T06:25:29.762129Z",
+  "sha256": "037b45abeb05960dedd93e4d464ae39ee3e604b1988e35b2a9daf826cdd2b8e7",
+  "size_bytes": 356840569,
+  "published_at": "2026-07-22T07:56:29.833560Z",
   "notes": [
-    "Correct hosted brain status after successful replies.",
-    "Active Awareness no longer appears to switch the text provider.",
+    "Improved Hey Scrap recognition with Windows alternate speech guesses.",
+    "Hosted replies now speak every remaining displayed sentence without restarting.",
     "Signed private Windows 10 and 11 update."
   ],
-  "signature": "HzHduJyyXS7MdjtQa+ZvzGCRnNhwD2L7z1YBqSo0SKZhlTNirYbyIKf6Zk+k3vfntXB/u6JHVBJXWcVnnbnSwgitmgsOnVqd38uI8OuGFPq31RCu0qxwpJKiv1u9FlYVJPimnBl+fAo+g+MtT5yGzrWboezkAcZ8Oa49af47wD8OHQuENqf9R6kFZyRMnI1wkADm33TE8ZmKIrBEjEqFfjLCeS3JCO64bK/oxMlA3n0UJQKrqK59sBtoYvlxJHVAIoc+IN8367MODGnvDBL6NOTs/yV92FyQaNCyERjsIhZpe0Or5M66VI1OzKvUwdVkbpjIiDmRbYwT9TGhNj4lvrRbimB+YjhHC/3ydEq8iU6Krv982sfGdVga/4amJ2bPNzXjTP9g9OcFViIeebaJ3KjnYnpKs+VN82baqlUoJLe+mu3FIPz4R2ohG0wqTtgjcW0M0uMkWdl0iXp17abGZpW6OuMD9F4CUwrI0L42FFwama6pjRvZFMIySYCqLqWj"
+  "signature": "SfclRoyiJFhmKjvopjNZbw8mjbSa3yc+eX39nw3y5/SlssxCuE5teCfOovhfJt08tPp+7hCCxtGbmSuH2vemC9MXEbUl9uviqolRAlCYBbj2phy0B38gaBkZ1Ri/iAzPptKQh1ZfjWU7QmKoUJ1S0KzlCF0hz9Zs1NxqwKi7MuZOXit7RSOTp5/E1+NMWN2OvjewGkTUh8ywuJT36is/S+JNXt+lr9+D4vLuUxEIKXnCFpksl+uwqOGl396GEpLoeSkzLvzPjcrPgks+1MrlLUcYxWP7vcweNNKa/Nz5jjd+skPkBBJ5jAb9/NjlQ11qT0nKtkU8yDuI1th04FxuvpfS1aLWmbAK7N5thmDlZBzPaFkHbS/NCXfneTxb/Lxe9bZNnpicZS75HpFvtHOiSaJLJACIxcLd8ZVXx/cWBdmj/njd6jDYfFhjDBLGcPlkmAKn3ftRPF3b7IkyZQCJWGP1ZqHCxeoPQdXOCc+MqjWE5UUgdNczznAwRw2AYC6v"
 }

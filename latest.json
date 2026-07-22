@@ -1,18 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.15.3-scraplink-private-alpha",
-  "release_sequence": 5,
+  "version": "0.15.4-scraplink-private-alpha",
+  "release_sequence": 6,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "037b45abeb05960dedd93e4d464ae39ee3e604b1988e35b2a9daf826cdd2b8e7",
-  "size_bytes": 356840569,
-  "published_at": "2026-07-22T07:56:29.833560Z",
+  "sha256": "ab89ea5f892a8336325704a4221dfa0bdb6584979a75149b7a3a3a3ecf66c93a",
+  "size_bytes": 356795955,
+  "published_at": "2026-07-22T08:40:33.921035Z",
   "notes": [
-    "Improved Hey Scrap recognition with Windows alternate speech guesses.",
-    "Hosted replies now speak every remaining displayed sentence without restarting.",
-    "Signed private Windows 10 and 11 update."
+    "Hosted gpt-4o-transcribe speech recognition for signed-in testers.",
+    "Full replies now speak as one complete utterance without first-sentence cutoff.",
+    "More natural conversational personality and lighter robot voice processing.",
+    "Improved Hey Scrap recovery using secure second-pass wake confirmation."
   ],
-  "signature": "SfclRoyiJFhmKjvopjNZbw8mjbSa3yc+eX39nw3y5/SlssxCuE5teCfOovhfJt08tPp+7hCCxtGbmSuH2vemC9MXEbUl9uviqolRAlCYBbj2phy0B38gaBkZ1Ri/iAzPptKQh1ZfjWU7QmKoUJ1S0KzlCF0hz9Zs1NxqwKi7MuZOXit7RSOTp5/E1+NMWN2OvjewGkTUh8ywuJT36is/S+JNXt+lr9+D4vLuUxEIKXnCFpksl+uwqOGl396GEpLoeSkzLvzPjcrPgks+1MrlLUcYxWP7vcweNNKa/Nz5jjd+skPkBBJ5jAb9/NjlQ11qT0nKtkU8yDuI1th04FxuvpfS1aLWmbAK7N5thmDlZBzPaFkHbS/NCXfneTxb/Lxe9bZNnpicZS75HpFvtHOiSaJLJACIxcLd8ZVXx/cWBdmj/njd6jDYfFhjDBLGcPlkmAKn3ftRPF3b7IkyZQCJWGP1ZqHCxeoPQdXOCc+MqjWE5UUgdNczznAwRw2AYC6v"
+  "signature": "N5/sVmme5mDT1pp/mDd1ybqic8TCLC5HpfVCyiBOd5GiGIsswWIbJYuR196VMBljFFrgp9NJmjbGmP43NCBl1Jp9fK/kHLwJ6kLht4tmdsYjI/3br40MwCZ9xHhEAzhmy/T+vjXgkKMoI2zLUuY9pgUW+w7Z4pNGfMXPBZVBx1Rt/J3a3srXlTU9OgHoFZMs9b5kzW/Pw1CE/speCexrG2VbutQIj/0aI0cXdUOQssLH3wgGtDU+GFfkGtCoewkc1fmcgUP8AKcBlhtx0pXgHuY2qCg61/szdaS0LU+Ga5uKzy6/0l2S7/5vVrT+tEzaw0oahw476Le2P+nVAZCtYeNVeu7XSpH4aDpONX0XQpIZPFz4aKsJBPHoF9SvsFSckqRtOF3q1j+85gXPbSqq514kwodVFKSYusMSQOg+2Z3826jf+dOilzUtiYDTX+Qhcqgn1hoZZgYbuibH5mFNOUcmmMev6FrlOo4DVVh+bwzncSoXxDGlcweMECiqZYwq"
 }

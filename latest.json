@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.17.3-phase4-story-voice-routing-hotfix",
-  "release_sequence": 13,
+  "version": "0.17.4-phase4-semantic-prosody",
+  "release_sequence": 14,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "d9603b79841cc15f350f8ea3139cc1d389899ba69a5b35dc478c97ff41026f57",
-  "size_bytes": 357085391,
-  "published_at": "2026-07-23T07:19:47.496899Z",
+  "sha256": "ca5f87849b0458cd275be0a9ee0a2033779d14fe4c404cae8a9c73e2785e5df6",
+  "size_bytes": 358356883,
+  "published_at": "2026-07-23T10:37:06.877897Z",
   "notes": [
-    "Fixes stuck story/chat replies with bounded retry and routes Scrap voice to the configured gaming headset."
+    "Scrap voice now follows complete clauses and sentences, removes artificial mid-sentence pauses, and pre-renders upcoming phrases for smooth ordered playback."
   ],
-  "signature": "FTsd1RaQRtl6A/C+lSbHSltW2pH/gl4iNnruHVwgrSuvkQmwPtuXOO+hQLuY9307gHxEZczBsnGzuemrMr5p+N2IM5o9S/OsTSW8KdHSVC8BsTTyg6qAu7MxGEJLCut+klPm3Zng8j7ICm3DpSQd6o81Xh47M4mZsXcakD/xe8tndqVLgZqVtCu81YH2G9ImjyWWDko8eqAM5Mpngr2+PmCHxWQFaQ1w1Cb5Pu54/QxP4BuQFvPUFPiYSw5d5/nh8FdGYUdWbinS9yNzgtJYfHhet2SHVQIte2y2rkd3BsZhv5onskX9zDOhYXFIF72KmGI3B1OehajRkLx05QP8hXxKE1ULYkhedV8S7SdqOKGac85iM6YcYgHgoO35bL3IhXQ9VR70gpGIkfclyYSC4Ggrd73W6GC81K1WpqKsGrPpnJpiLtbP6ECub+GaNz0UObCtzQGMt9IIiTWm6Y3EN7gzd7TkHiqxfgUafndbLIJ1F4jVhuVI2IS62AGgUtrV"
+  "signature": "f+LgwnECFbSL0oxUX3ABEaHzhNMJvigyDyd2c2AJ5AU0cV6cApqn6bSbZV5wruI6rkTDb0NThmcOYO4V/9szzREZVpB+0d4airnOyIRMr+H6UFOK4o9hlwdo5KUqD8PXW277H4hE0KZ3jeRsgDdEKgbLvZwGOzJ52lTnwJP5Ew0nDQgiRpJh0Rj1GU0spWHPQ3AEE0TdlNjVX7tvHeGoJ5BJsyN9diQlT85z+BxvYpqWNylRB52Jc+qqlmzUcJ+rUsYIMWnR988kzN7T8Lpe/T34S2WQ6ytl78OYlnSWPKC95ia6XFowvkAZjpKU7YOI5TWbPPW0cmP/x4F9GRXob4OpN5C1iZLYdO/uo1FH1VhLU8F9MGSqSXVD7IsA3gvprO29wlf+/jQy9rPDS8evNo7QY5tIkPHpSAi5kWv82MVR/p0KOMg2rNiZZEeawlUVs3G8HZjgyAbAvDTKlfnxoGM88ga1wWxRTjkiiIJhdkeogEDs06cVUUpua9ugUbxl"
 }

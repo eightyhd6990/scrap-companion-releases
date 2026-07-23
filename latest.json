@@ -1,20 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.17.1-phase4-voice-hotfix",
-  "release_sequence": 11,
+  "version": "0.17.2-phase4-multiturn-voice-hotfix",
+  "release_sequence": 12,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "4c6c6c6e399c004c9fe36389d60512dc6fd1d9cd31e6418b28f208e3d302adcf",
-  "size_bytes": 356914763,
-  "published_at": "2026-07-22T23:17:54.442630Z",
+  "sha256": "95be5962ce3ae1a72d7ea5fea9adec29d53ffb66d60b2d11d9d285a97cac4c3a",
+  "size_bytes": 356957066,
+  "published_at": "2026-07-23T00:40:45.678470Z",
   "notes": [
-    "Hey Scrap by itself now acknowledges the player and then opens a fresh 15-second command-listening window.",
-    "Inline phrases such as Hey Scrap show my fleet still use the fast single-capture path.",
-    "Post-answer replies reopen a 15-second no-wake conversation window after Scrap finishes speaking.",
-    "Voice-operation deadlines now cover microphone capture plus hosted transcription, preventing late transcripts from being discarded.",
-    "Private fleet, inventory history, Verse Knowledge, settings, login, and memories are unchanged and preserved."
+    "Fix second-and-later spoken replies in hands-free conversations.",
+    "Require confirmed Windows audio playback before opening the next 15-second reply window.",
+    "Reload and retry one silent Kokoro generation without duplicating or losing the reply."
   ],
-  "signature": "nz/0A8m1TOUnmAWvbSOkTx3CVcxhD7RsUA6CEpiRkWOXOfJrDWarBk0xEAZtuBAOOycxNhvsCGHJ2792Kr3AP24KPBNJGXTykxG1cmn7D9arwpNVVN0buUgnGjkxgSE3hyZHekn3GHcpkBYPZNtDl6fp33nJkM9U2SkWauPpxvRERdkiIx9DtxNkQtcbkBxPQMT1xvAmtB70ZBQgDxP3wGS7xAw48Q2PJ6Ui8cvl9qhYxCzzd4tsshnW+boPKqZvDNXLwH0bzv2t/cpx54DyaGGwN/FSPqNNstoYx7l96S32pRHN5aMRCoALAn68I6JMqkqctnzHw3eBh0Niw98NqDW1xhegfcOcuzasYZN3Iw9XHxb/iHoS1JNYcRiYYFyXh3D116xWlBEMZFMy5EHo9u2PR75vMC5arYtE6tNu/yhIWSU3N8/PmOi9KBXhuydI00jZky31O1bz4HLM8n3m22TA7j86D6QIjWTgv1GtNb6zudWsSrpF+kWOXf8ahHPV"
+  "signature": "nAHNh/v5F4LUsLVtS8vEadt+cFugve7QK3o9NGCPULlo0jiYWwWUvsvACBU6bbCEVFyZclG8ynVefmG7ZcIjn0kt9ziJvBMeJQvycTDDWvoPzbE3Huh+H60FfIjEuqocZZ9j37Mi/g6+RyhC7G5LOfObXYnthcpGUSPSLgYyHs59CTDjsIGZVEgb8mhrDDN/UGvqkNQOK5W3PS4dAQ4FSinwqWSuYARw0B4tnbtbgyvJYgJw43mQuan8pPR5LejnTPtkFBRRnjJyOpFXI7Q21ppcR/R20qM6/mlNRtLqSBTaW1GDDTcr3GIApRJ3rsUF/+TUJlKuGVC11hpMYoHFNYEOuubCr6433ZQyMPGgXlLfaEm9fF2c/M+/Hf9p5vcuhEg+7g9KzL/HPKOFPBfoluHVRzqXRCjQa4f1+jdyiT+oJ1XeKvacQjWGq0J+4Mo6PxhEUvOQf2lSscvHjDzfIwBwk/PIjPblmOSLBj47ybRaewwYtyVIqmCGR8HB+cHE"
 }

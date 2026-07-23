@@ -1,18 +1,16 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.17.2-phase4-multiturn-voice-hotfix",
-  "release_sequence": 12,
+  "version": "0.17.3-phase4-story-voice-routing-hotfix",
+  "release_sequence": 13,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "95be5962ce3ae1a72d7ea5fea9adec29d53ffb66d60b2d11d9d285a97cac4c3a",
-  "size_bytes": 356957066,
-  "published_at": "2026-07-23T00:40:45.678470Z",
+  "sha256": "d9603b79841cc15f350f8ea3139cc1d389899ba69a5b35dc478c97ff41026f57",
+  "size_bytes": 357085391,
+  "published_at": "2026-07-23T07:19:47.496899Z",
   "notes": [
-    "Fix second-and-later spoken replies in hands-free conversations.",
-    "Require confirmed Windows audio playback before opening the next 15-second reply window.",
-    "Reload and retry one silent Kokoro generation without duplicating or losing the reply."
+    "Fixes stuck story/chat replies with bounded retry and routes Scrap voice to the configured gaming headset."
   ],
-  "signature": "nAHNh/v5F4LUsLVtS8vEadt+cFugve7QK3o9NGCPULlo0jiYWwWUvsvACBU6bbCEVFyZclG8ynVefmG7ZcIjn0kt9ziJvBMeJQvycTDDWvoPzbE3Huh+H60FfIjEuqocZZ9j37Mi/g6+RyhC7G5LOfObXYnthcpGUSPSLgYyHs59CTDjsIGZVEgb8mhrDDN/UGvqkNQOK5W3PS4dAQ4FSinwqWSuYARw0B4tnbtbgyvJYgJw43mQuan8pPR5LejnTPtkFBRRnjJyOpFXI7Q21ppcR/R20qM6/mlNRtLqSBTaW1GDDTcr3GIApRJ3rsUF/+TUJlKuGVC11hpMYoHFNYEOuubCr6433ZQyMPGgXlLfaEm9fF2c/M+/Hf9p5vcuhEg+7g9KzL/HPKOFPBfoluHVRzqXRCjQa4f1+jdyiT+oJ1XeKvacQjWGq0J+4Mo6PxhEUvOQf2lSscvHjDzfIwBwk/PIjPblmOSLBj47ybRaewwYtyVIqmCGR8HB+cHE"
+  "signature": "FTsd1RaQRtl6A/C+lSbHSltW2pH/gl4iNnruHVwgrSuvkQmwPtuXOO+hQLuY9307gHxEZczBsnGzuemrMr5p+N2IM5o9S/OsTSW8KdHSVC8BsTTyg6qAu7MxGEJLCut+klPm3Zng8j7ICm3DpSQd6o81Xh47M4mZsXcakD/xe8tndqVLgZqVtCu81YH2G9ImjyWWDko8eqAM5Mpngr2+PmCHxWQFaQ1w1Cb5Pu54/QxP4BuQFvPUFPiYSw5d5/nh8FdGYUdWbinS9yNzgtJYfHhet2SHVQIte2y2rkd3BsZhv5onskX9zDOhYXFIF72KmGI3B1OehajRkLx05QP8hXxKE1ULYkhedV8S7SdqOKGac85iM6YcYgHgoO35bL3IhXQ9VR70gpGIkfclyYSC4Ggrd73W6GC81K1WpqKsGrPpnJpiLtbP6ECub+GaNz0UObCtzQGMt9IIiTWm6Y3EN7gzd7TkHiqxfgUafndbLIJ1F4jVhuVI2IS62AGgUtrV"
 }

@@ -1,20 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.23.0-phase5-companion-wake-roaster",
-  "release_sequence": 23,
+  "version": "0.23.1-phase5-nova-dark-pbr",
+  "release_sequence": 24,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "b9536ab1aadb1ab9c0a1327371bb676e530fe4797af9b681cd0c08ce8bff040f",
-  "size_bytes": 388058997,
-  "published_at": "2026-07-24T07:35:54.199129Z",
+  "sha256": "2351cb0f31a0a2712e8e86050dcf1a76b603c2c127eeba1d8c0e6a96a84fe1b3",
+  "size_bytes": 386716929,
+  "published_at": "2026-07-24T09:34:42.365514Z",
   "notes": [
-    "Scrap, Vantrel, and NOVA now answer complete questions addressed to their own name.",
-    "Name-only wake calls get an immediate in-character response and a 15-second natural follow-up window.",
-    "NOVA's adult roaster personality is now available in Live Mode with protected-trait safety boundaries intact.",
-    "A visible CHECK UPDATE button makes signed private alpha updates available on demand.",
-    "New installs use clean audio-device and volume defaults; existing settings and memories remain preserved."
+    "NOVA's packed PBR palette now renders correctly with dark charcoal armor, rust-orange fur, and cyan accents.",
+    "Rebaked all 100 NOVA animations and 38 facial controls with corrected lighting while preserving transparency and lightweight performance.",
+    "Adds automated washout protection and preserves player settings, memories, and sign-in during update."
   ],
-  "signature": "hfGKXaD1/97AUPuZdtLC/heTi/NlO1Q4qhuF25Uh7kSKpevloOIFJyfxK/ewNevnfk6h5NFlryOT0ZjU2W+48szBFaVKu7TSYbIRABCWofdvvvnxfm+o0T8AG0Wv8nzpfiH+kELDeIsIEdv+W/xpaWi5s8iocj9x21Kx9hTJF4327Wh1rLGt893CjNxJVJd56sQyPNyZ+EegIeYmaVdBW+2Bvhs7BG9xbv1Znj3p2ZrbIGMQ/nifSAe6HZScx1HY96TomUuzxGBvR4XDSPpdXykGCuWsd59w2+JdfCOUJG8BHU1XNHM3igo/AEgb0ZoaSrk+wr9nnMVowugvYx2g31AhST8K+LLHcTN8O89mQZFldFu5Vy9AeU915n75WedF77y5MYDh91OFipALOZrpvbzgIkTmyZNwFi0QtBbLo2Yye60bNm12S3QYSktfs8rMpH7NHsrMIWqFQl1sRwsYRnPK+j90dRpcz3pDWCpygc/CbciV1lNP4aCZxkAedll2"
+  "signature": "pgjjsuOVUcTVGkC0jUn02hntNwFyAdmeDIGmo/YEnT5gDYgAHG8ayFCoJ7B5p0Ic7RgQP1owrO4phHkcdVTzlCDvfCBN+5a6OtkWgzFJXfjS/VhPLkpt9+WgzYPIcHZ4/jjytAAt7wSNlkn7gffrndJFT1avxldimEoBrGkNN6gC8YTjHlropb/cCfe/DjiM7wb5Ry9p3doDK3ZpdO8RsvXdgeVvEdnX3BWSEUmiAQdA6W66VqpiDx46QkInYax+5SPhhOE1kw/C9junig2SKtWGjA1fBObagPU165P9KXpjXwHEqAzTHAvTj7spcwE4ad+hGVY3QnQRqGWw7kYQe1lNyRWxTXBX9jO44Xe+Clou61sHt9d5Gez/waPPGoaomSvnTbMmBBeWxCwm9rSM9T7QO6z6SH281KNZGHXCiOdUa6EJMmoweo+vJSYIhLDkLsNpl42fuG2Nn6XbX0OH4dZ2ARGRClBf2/hCBHLmLvzncdFYafDjYQQLlrCq9Bsv"
 }

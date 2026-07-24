@@ -1,19 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.22.0-phase5-nova-character",
-  "release_sequence": 22,
+  "version": "0.23.0-phase5-companion-wake-roaster",
+  "release_sequence": 23,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "904a5780a78ec136fb4176aad4dd53291f58cada36b0c0e402cf980e9f624b31",
-  "size_bytes": 388046636,
-  "published_at": "2026-07-24T05:34:12.024182Z",
+  "sha256": "b9536ab1aadb1ab9c0a1327371bb676e530fe4797af9b681cd0c08ce8bff040f",
+  "size_bytes": 388058997,
+  "published_at": "2026-07-24T07:35:54.199129Z",
   "notes": [
-    "ScrapLink 0.22.0 adds NOVA as a fully independent companion alongside Scrap and Vantrel.",
-    "NOVA includes 100 animation clips, 38 facial controls, and a dedicated veteran personality and memory profile.",
-    "Hosted voice keeps AI speech off the gaming PC, while frame rendering remains lightweight and uses no GPU compute context.",
-    "Ghost Mode, player memory, screen awareness, and the early friends hub remain included for invited testers."
+    "Scrap, Vantrel, and NOVA now answer complete questions addressed to their own name.",
+    "Name-only wake calls get an immediate in-character response and a 15-second natural follow-up window.",
+    "NOVA's adult roaster personality is now available in Live Mode with protected-trait safety boundaries intact.",
+    "A visible CHECK UPDATE button makes signed private alpha updates available on demand.",
+    "New installs use clean audio-device and volume defaults; existing settings and memories remain preserved."
   ],
-  "signature": "fYCR+xwnN7Th6Dc92CL/X6LrexQTWPviNjO92W8kvVZnfW86fAfJcffnbGCUYZ5szfW5pM562RF/LHP2xpmLOwBIaHXf422hsEn/6lYWBWMXIhpYOYqBVpvvVHxPH530YYioGFmJsvB0nPu/fWVPofqzZLEvyGwAvjrCkd0cvEf2sjqaq+kENCYEPtacdUY1OpNppNMna0NosJHyUPPx0Ttyur06Fyqw0/z9XDnLJTe2MxXA+glwbR8uWA2eYrzCpY88Pdf/vBaWWTFnTxYwYK2SYTHtKyRELr5FwFN2W0XqKtK4pt5m7HOHGy4b6q28QC6ZsQWrHdG8pVj6hvDvUKjwxQRTk10PvO5vYx1ZMkKonzFkGU5T0nL0zzn2Ka9st9SEO5Be0EVmk5NjB+hnb9NYWJzx2HnZlrw0Pj3Acg5JdnRZWkXiuGUb44Xi2PJ6z8BSBNimDkK4YAciCjg5bzmvka+jmN7HotAe8h0DfeAFi6Io3H6MDpnzygcLHo7m"
+  "signature": "hfGKXaD1/97AUPuZdtLC/heTi/NlO1Q4qhuF25Uh7kSKpevloOIFJyfxK/ewNevnfk6h5NFlryOT0ZjU2W+48szBFaVKu7TSYbIRABCWofdvvvnxfm+o0T8AG0Wv8nzpfiH+kELDeIsIEdv+W/xpaWi5s8iocj9x21Kx9hTJF4327Wh1rLGt893CjNxJVJd56sQyPNyZ+EegIeYmaVdBW+2Bvhs7BG9xbv1Znj3p2ZrbIGMQ/nifSAe6HZScx1HY96TomUuzxGBvR4XDSPpdXykGCuWsd59w2+JdfCOUJG8BHU1XNHM3igo/AEgb0ZoaSrk+wr9nnMVowugvYx2g31AhST8K+LLHcTN8O89mQZFldFu5Vy9AeU915n75WedF77y5MYDh91OFipALOZrpvbzgIkTmyZNwFi0QtBbLo2Yye60bNm12S3QYSktfs8rMpH7NHsrMIWqFQl1sRwsYRnPK+j90dRpcz3pDWCpygc/CbciV1lNP4aCZxkAedll2"
 }

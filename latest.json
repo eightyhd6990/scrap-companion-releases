@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.24.0-live-game-intelligence",
-  "release_sequence": 25,
+  "version": "0.25.0-general-gaming-companion",
+  "release_sequence": 26,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "1cea9d2da3f93f912d9db5a42aa0365b998d4936c232489c742515623ec8a606",
-  "size_bytes": 386682584,
-  "published_at": "2026-07-28T20:31:23.699364Z",
+  "sha256": "117678b425cc048ce20f93944c57872f99ec52335bdaf3d3915de03034bb5f11",
+  "size_bytes": 386868364,
+  "published_at": "2026-07-28T23:57:41.643832Z",
   "notes": [
-    "Verified current-game web research is now live for factual questions, with official sources first and fail-closed answers when evidence is insufficient.",
-    "Star Citizen coverage now includes current patch changes, newest ships, exact flight speeds, stock loadouts, weapons, shields, components, item statistics, and practical PvP or PvE recommendations.",
-    "Scrap, Vantrel, and NOVA remain fully included with separate wake names, hosted voices, personalities, animations, and private memories; player accounts, settings, inventories, and memories are preserved."
+    "ScrapLink is now presented as a general AI gaming companion across the app, profiles, and social tools.",
+    "Current research works for detected or named PC games while specialist adapters remain optional internal compatibility modules.",
+    "Gaming operations can now be created for any game, with private player memory kept separate from shared facts."
   ],
-  "signature": "hIcntFSK3D3SnszPJ392kOqYQsXUDdXKlZdzhOB8Kz99KlVZJavLRaAHAGvUqCfQ9YTnEDr6L3kjw7t270cS4era+jKC1jX1IebbLiWq9IKJFT9qJxRTONq6h296qevSzPKvlCPiLXPGovEtnhc0iC1ziYfGeWDHzOQKNoBhzUC0ySAiCiflTmxHLBCrBmPrFLoFcuWB5vofxhjGyUUlZ7/e73Wyr1cgiqduxi/Vz5GxRrwq8zQ5SuSb8zxMFKkcpokS6cowWOqb3H4sANE8yTBbtAZEKAroghZIu4trhb1SG55XEPISZ6Cw+RMkaBi7q8t289TUkUYSvRG4d7Dn41AqC5OIsYYaKlLVXWDVNmO1roa6TuGca8ibZD84IrftUkaihk95eqnyF6AfcL6qMF9QeJzj1IVlJYSYpqGGyQyz9CH37JxGu0Myj/6P4Vr3BnWsumGxGnEQdsvzB3b1K9p51rxa/6mkBZF13rf4qQwJyxW84nWqa4DfuIim83h8"
+  "signature": "oGo/lNcoZr0sm2soTco5fVRxOmZIx880s3tAPX7LvH2vrlidLW0T9BsYHCdvPHDDqyOQtXLxk5jgbHN4jvGgPYrssF3kxmOHyiBEYKwTju09bWDHKqL6zx8R/CZkpqvB7zfU7k1c79WEOUtEVU7p3isUyZksBXVvWHj6CX5mT6KwU3jKlYj7cQL+9wM4imHeSykYiza/aNIFZaZoDXHDWek85mF1DNj8QDT9OmItTns7lIC4IuqSmFhpkB+KGeTEAaDcxtQAMD98G/m7CsT/hQ+Yr6OQLSyCzeCqqZsm5oNFhkhzikyPkCXiKEa5u6zB47izDczOPWLr/q59yEWBIHyVL1dD8dZknJELG/Pkd+wunJacj3PWDHkFtL/vyFUoVFI092apkXtQsbC/0hBcvJaEG+567e4jLnGcsCHdq5FOwwa2Gfz/7vqmP1HO8X5WIEBXo2BbvdDMlxgVM6YjLLAGwnuD96flBQE9y2j7BC2LNTE02sK9Cs5wTslfvo0+"
 }

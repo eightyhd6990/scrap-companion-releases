@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.23.1-phase5-nova-dark-pbr",
-  "release_sequence": 24,
+  "version": "0.24.0-live-game-intelligence",
+  "release_sequence": 25,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "2351cb0f31a0a2712e8e86050dcf1a76b603c2c127eeba1d8c0e6a96a84fe1b3",
-  "size_bytes": 386716929,
-  "published_at": "2026-07-24T09:34:42.365514Z",
+  "sha256": "1cea9d2da3f93f912d9db5a42aa0365b998d4936c232489c742515623ec8a606",
+  "size_bytes": 386682584,
+  "published_at": "2026-07-28T20:31:23.699364Z",
   "notes": [
-    "NOVA's packed PBR palette now renders correctly with dark charcoal armor, rust-orange fur, and cyan accents.",
-    "Rebaked all 100 NOVA animations and 38 facial controls with corrected lighting while preserving transparency and lightweight performance.",
-    "Adds automated washout protection and preserves player settings, memories, and sign-in during update."
+    "Verified current-game web research is now live for factual questions, with official sources first and fail-closed answers when evidence is insufficient.",
+    "Star Citizen coverage now includes current patch changes, newest ships, exact flight speeds, stock loadouts, weapons, shields, components, item statistics, and practical PvP or PvE recommendations.",
+    "Scrap, Vantrel, and NOVA remain fully included with separate wake names, hosted voices, personalities, animations, and private memories; player accounts, settings, inventories, and memories are preserved."
   ],
-  "signature": "pgjjsuOVUcTVGkC0jUn02hntNwFyAdmeDIGmo/YEnT5gDYgAHG8ayFCoJ7B5p0Ic7RgQP1owrO4phHkcdVTzlCDvfCBN+5a6OtkWgzFJXfjS/VhPLkpt9+WgzYPIcHZ4/jjytAAt7wSNlkn7gffrndJFT1avxldimEoBrGkNN6gC8YTjHlropb/cCfe/DjiM7wb5Ry9p3doDK3ZpdO8RsvXdgeVvEdnX3BWSEUmiAQdA6W66VqpiDx46QkInYax+5SPhhOE1kw/C9junig2SKtWGjA1fBObagPU165P9KXpjXwHEqAzTHAvTj7spcwE4ad+hGVY3QnQRqGWw7kYQe1lNyRWxTXBX9jO44Xe+Clou61sHt9d5Gez/waPPGoaomSvnTbMmBBeWxCwm9rSM9T7QO6z6SH281KNZGHXCiOdUa6EJMmoweo+vJSYIhLDkLsNpl42fuG2Nn6XbX0OH4dZ2ARGRClBf2/hCBHLmLvzncdFYafDjYQQLlrCq9Bsv"
+  "signature": "hIcntFSK3D3SnszPJ392kOqYQsXUDdXKlZdzhOB8Kz99KlVZJavLRaAHAGvUqCfQ9YTnEDr6L3kjw7t270cS4era+jKC1jX1IebbLiWq9IKJFT9qJxRTONq6h296qevSzPKvlCPiLXPGovEtnhc0iC1ziYfGeWDHzOQKNoBhzUC0ySAiCiflTmxHLBCrBmPrFLoFcuWB5vofxhjGyUUlZ7/e73Wyr1cgiqduxi/Vz5GxRrwq8zQ5SuSb8zxMFKkcpokS6cowWOqb3H4sANE8yTBbtAZEKAroghZIu4trhb1SG55XEPISZ6Cw+RMkaBi7q8t289TUkUYSvRG4d7Dn41AqC5OIsYYaKlLVXWDVNmO1roa6TuGca8ibZD84IrftUkaihk95eqnyF6AfcL6qMF9QeJzj1IVlJYSYpqGGyQyz9CH37JxGu0Myj/6P4Vr3BnWsumGxGnEQdsvzB3b1K9p51rxa/6mkBZF13rf4qQwJyxW84nWqa4DfuIim83h8"
 }

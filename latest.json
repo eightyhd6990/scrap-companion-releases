@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.25.0-general-gaming-companion",
-  "release_sequence": 26,
+  "version": "0.25.1-ghost-top-edge",
+  "release_sequence": 27,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "117678b425cc048ce20f93944c57872f99ec52335bdaf3d3915de03034bb5f11",
-  "size_bytes": 386868364,
-  "published_at": "2026-07-28T23:57:41.643832Z",
+  "sha256": "df2399d4c491729acddf54c62b164b56d3c2b60ebee396360675a2a4e0fbb93c",
+  "size_bytes": 386872926,
+  "published_at": "2026-07-30T23:36:53.460237Z",
   "notes": [
-    "ScrapLink is now presented as a general AI gaming companion across the app, profiles, and social tools.",
-    "Current research works for detected or named PC games while specialist adapters remain optional internal compatibility modules.",
-    "Gaming operations can now be created for any game, with private player memory kept separate from shared facts."
+    "Ghost Mode companions can now be dragged to the top or left edge without jumping to the opposite side of the screen.",
+    "Saved Ghost Mode positions now restore with true absolute Windows coordinates across the virtual desktop.",
+    "Position Lock, hover controls, voices, memories, companions, and social features remain unchanged."
   ],
-  "signature": "oGo/lNcoZr0sm2soTco5fVRxOmZIx880s3tAPX7LvH2vrlidLW0T9BsYHCdvPHDDqyOQtXLxk5jgbHN4jvGgPYrssF3kxmOHyiBEYKwTju09bWDHKqL6zx8R/CZkpqvB7zfU7k1c79WEOUtEVU7p3isUyZksBXVvWHj6CX5mT6KwU3jKlYj7cQL+9wM4imHeSykYiza/aNIFZaZoDXHDWek85mF1DNj8QDT9OmItTns7lIC4IuqSmFhpkB+KGeTEAaDcxtQAMD98G/m7CsT/hQ+Yr6OQLSyCzeCqqZsm5oNFhkhzikyPkCXiKEa5u6zB47izDczOPWLr/q59yEWBIHyVL1dD8dZknJELG/Pkd+wunJacj3PWDHkFtL/vyFUoVFI092apkXtQsbC/0hBcvJaEG+567e4jLnGcsCHdq5FOwwa2Gfz/7vqmP1HO8X5WIEBXo2BbvdDMlxgVM6YjLLAGwnuD96flBQE9y2j7BC2LNTE02sK9Cs5wTslfvo0+"
+  "signature": "jIq+veFuFa8/F9phhURvOmYlNEa/gRFjUnqq8uIh5VvX6DjlkgiCmYh8JCqNWUQ+DNUrsCGdP0midMG4jurCm/bcxsQabJ91DuH2WmGtpMXBcMC83O6TJJ285+FRmnG6FfxQ2ZpR/bBKaoBsfTwdO7ncr/mk9aMk1v4DZu0rJBc9wYQB9Vkw12beNYu45JojdUSRfHqTFgx9Je1PmJaMbtN6vPjK9FHxJaIWd4UhxP2RASZiW0tDWzb8nopnyUXv2mokqs2onBmlVIxe0Y7lOEqZj5cPmaYOhoSJsogo65qVAihcyTseIo6VEl9vAkY5K7088VO1pzHjJ/RLAJIeVtkqg9wUjLOvuOD9jAALQFeB5VZg/b7DwnEiYygrVTpAOFsZhzbGBOh+xMSl0yinUSFeHqkEYNmlm4SE/YZNqguDmHD4jydzo237VwD/Tzogfl+dVEZGtvrsd4+XBWA1C3xsDrCHycGBdLenNQTq96k8XZTsGdcMoQNIYJqbZSDK"
 }

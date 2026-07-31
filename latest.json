@@ -1,18 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.25.1-ghost-top-edge",
-  "release_sequence": 27,
+  "version": "0.26.0-commercial-hd-ui",
+  "release_sequence": 28,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "df2399d4c491729acddf54c62b164b56d3c2b60ebee396360675a2a4e0fbb93c",
-  "size_bytes": 386872926,
-  "published_at": "2026-07-30T23:36:53.460237Z",
+  "sha256": "bc54a292aa43692bbaa48efef2724f535e414fb6782d63529f9f6c83c1acce51",
+  "size_bytes": 532768584,
+  "published_at": "2026-07-31T00:23:52.883784Z",
   "notes": [
-    "Ghost Mode companions can now be dragged to the top or left edge without jumping to the opposite side of the screen.",
-    "Saved Ghost Mode positions now restore with true absolute Windows coordinates across the virtual desktop.",
-    "Position Lock, hover controls, voices, memories, companions, and social features remain unchanged."
+    "Promotes the qualified modern cyberpunk interface from Test Lab into live ScrapLink.",
+    "Ships 3,380 lossless HD companion frames with Ultra quality, smooth motion, and independent 50-175% sizing for Scrap, Vantrel, and NOVA.",
+    "Keeps Ghost Mode borderless and draggable, with lock-position and reliable top-edge placement.",
+    "Preserves hosted AI, enhanced wake recognition, complete voices, friends, signed updates, private accounts, settings, and player memories."
   ],
-  "signature": "jIq+veFuFa8/F9phhURvOmYlNEa/gRFjUnqq8uIh5VvX6DjlkgiCmYh8JCqNWUQ+DNUrsCGdP0midMG4jurCm/bcxsQabJ91DuH2WmGtpMXBcMC83O6TJJ285+FRmnG6FfxQ2ZpR/bBKaoBsfTwdO7ncr/mk9aMk1v4DZu0rJBc9wYQB9Vkw12beNYu45JojdUSRfHqTFgx9Je1PmJaMbtN6vPjK9FHxJaIWd4UhxP2RASZiW0tDWzb8nopnyUXv2mokqs2onBmlVIxe0Y7lOEqZj5cPmaYOhoSJsogo65qVAihcyTseIo6VEl9vAkY5K7088VO1pzHjJ/RLAJIeVtkqg9wUjLOvuOD9jAALQFeB5VZg/b7DwnEiYygrVTpAOFsZhzbGBOh+xMSl0yinUSFeHqkEYNmlm4SE/YZNqguDmHD4jydzo237VwD/Tzogfl+dVEZGtvrsd4+XBWA1C3xsDrCHycGBdLenNQTq96k8XZTsGdcMoQNIYJqbZSDK"
+  "signature": "lueUcWMsLuXFgc/TUzzaG9NQUiVTC7e0PP9eb2DaJXmbEgVeAXXjfb9D+RmrLxkSVwLYHEz1rErieI9WoSQXIATmFCOouFAcYSGywKserJIF6nL59tBQqo+OVmtuLFMGmjFv1p2AGDvhCn6fUSMajXJ8VAFXRMMyppkt/ITNJUxa/UJ6JtE54kFgIcb3yjDoYj/udyPXR3uZi2jxvZOvi4V/5ZNyKWUW82NhYz2Y/ddXSlQ2Xblq/dYnS1l2uea22FvT9M5hFvZd8kcHU+Cq52z3XE+7QoLA1GU+5JHD8X6wNqDOfePw54/me7m8kIoT/Udcredylwj/CW7IiBH1Mh562kqZyAIggchB1dLhcS/tnnS0JgilQnZPbsuAVgEbS9OkTgNyaPxJ0y9Z0JMqaBqWabw9AosG/LRQcExPHIZ2OU+N0617zgVx/+gjNlMNe2RHXHlHG5pMStRHVeAEhBJGs19OcqQG1e76SL8QW9/3ssYgIdnQ/IJpGeBFbMbU"
 }

@@ -1,19 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.26.0-commercial-hd-ui",
-  "release_sequence": 28,
+  "version": "0.26.1-commercial-hd-ui",
+  "release_sequence": 29,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "bc54a292aa43692bbaa48efef2724f535e414fb6782d63529f9f6c83c1acce51",
-  "size_bytes": 532768584,
-  "published_at": "2026-07-31T00:23:52.883784Z",
+  "sha256": "c82f023a19d4d4e3cea40dc41fb2fd7a93bd7ddb20b6a7449dbbe2aed48d7033",
+  "size_bytes": 532699805,
+  "published_at": "2026-07-31T00:56:00.158535Z",
   "notes": [
     "Promotes the qualified modern cyberpunk interface from Test Lab into live ScrapLink.",
     "Ships 3,380 lossless HD companion frames with Ultra quality, smooth motion, and independent 50-175% sizing for Scrap, Vantrel, and NOVA.",
     "Keeps Ghost Mode borderless and draggable, with lock-position and reliable top-edge placement.",
+    "Removes the clipped legacy footer for a clean commercial Live Mode window.",
     "Preserves hosted AI, enhanced wake recognition, complete voices, friends, signed updates, private accounts, settings, and player memories."
   ],
-  "signature": "lueUcWMsLuXFgc/TUzzaG9NQUiVTC7e0PP9eb2DaJXmbEgVeAXXjfb9D+RmrLxkSVwLYHEz1rErieI9WoSQXIATmFCOouFAcYSGywKserJIF6nL59tBQqo+OVmtuLFMGmjFv1p2AGDvhCn6fUSMajXJ8VAFXRMMyppkt/ITNJUxa/UJ6JtE54kFgIcb3yjDoYj/udyPXR3uZi2jxvZOvi4V/5ZNyKWUW82NhYz2Y/ddXSlQ2Xblq/dYnS1l2uea22FvT9M5hFvZd8kcHU+Cq52z3XE+7QoLA1GU+5JHD8X6wNqDOfePw54/me7m8kIoT/Udcredylwj/CW7IiBH1Mh562kqZyAIggchB1dLhcS/tnnS0JgilQnZPbsuAVgEbS9OkTgNyaPxJ0y9Z0JMqaBqWabw9AosG/LRQcExPHIZ2OU+N0617zgVx/+gjNlMNe2RHXHlHG5pMStRHVeAEhBJGs19OcqQG1e76SL8QW9/3ssYgIdnQ/IJpGeBFbMbU"
+  "signature": "iwDkLFix1MfnCXpMtCHsQXzw0krRc/6xYXMbuF2ZM3qAssPgdpBbKBb00tcuCIbWBwne1LzXat9BoRjegJOdoV/lrX7H5cfw5stQHhaa/uizTwMWhYVpg53BCLK460LTqnbYqS6n5xcgSnqIbZHuFZKBijycGdn4tRSO7hsi2PH7olDWgg6aMwI6Cr1E8T3ZUoHEd9BBo4SMKBrm9fGfv8vIGl5n2bakcwiEkHWTK05KSO1/cRLrEdEjRHZO1a/2TQUr53TvWF6Mx1h7s73ts+Q1EYxLdb1sbUT04gvU7k8Mcz4jdTlJAbdYbfv2OM5Aft5r4dKmbab9o/xDvH6/IUJPOd0H9pTjr6o/r/nZgXUXGQmKReVAp5cWbP+oDpoyEJ9u3RyCK0C1UIl2xZEPnJwus5DkqIaYGHlcTvCbDBpZnEkwMMV00njnYkct2G8lh3270/lA3b436WxSNIbAxsgYwGCmI0OMyOQl1f1yQXGevwK/QLg3BCc+6aGGxtQw"
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.26.1-commercial-hd-ui",
-  "release_sequence": 29,
+  "version": "0.28.0-crew-companion-control",
+  "release_sequence": 32,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "c82f023a19d4d4e3cea40dc41fb2fd7a93bd7ddb20b6a7449dbbe2aed48d7033",
-  "size_bytes": 532699805,
-  "published_at": "2026-07-31T00:56:00.158535Z",
+  "sha256": "4e42587d96f069381e6235d5167727423bffb87c4a8f58901a9f9e06477caba8",
+  "size_bytes": 651438176,
+  "published_at": "2026-08-03T23:24:46.750106Z",
   "notes": [
-    "Promotes the qualified modern cyberpunk interface from Test Lab into live ScrapLink.",
-    "Ships 3,380 lossless HD companion frames with Ultra quality, smooth motion, and independent 50-175% sizing for Scrap, Vantrel, and NOVA.",
-    "Keeps Ghost Mode borderless and draggable, with lock-position and reliable top-edge placement.",
-    "Removes the clipped legacy footer for a clean commercial Live Mode window.",
-    "Preserves hosted AI, enhanced wake recognition, complete voices, friends, signed updates, private accounts, settings, and player memories."
+    "Promotes the verified high-resolution mechanical interface to Live for friends.",
+    "Adds modern Crew Messenger with friend game status, invisible presence, custom logos, and private image sharing.",
+    "Adds companion-controlled messaging, friend status checks, event setup, and app navigation.",
+    "Includes Scrap, Vantrel, NOVA, Rusty Sentinel, and Iron Hare with verified HD animation packs and hosted voices.",
+    "Signed in-app update preserves each player's settings, session, and private memory."
   ],
-  "signature": "iwDkLFix1MfnCXpMtCHsQXzw0krRc/6xYXMbuF2ZM3qAssPgdpBbKBb00tcuCIbWBwne1LzXat9BoRjegJOdoV/lrX7H5cfw5stQHhaa/uizTwMWhYVpg53BCLK460LTqnbYqS6n5xcgSnqIbZHuFZKBijycGdn4tRSO7hsi2PH7olDWgg6aMwI6Cr1E8T3ZUoHEd9BBo4SMKBrm9fGfv8vIGl5n2bakcwiEkHWTK05KSO1/cRLrEdEjRHZO1a/2TQUr53TvWF6Mx1h7s73ts+Q1EYxLdb1sbUT04gvU7k8Mcz4jdTlJAbdYbfv2OM5Aft5r4dKmbab9o/xDvH6/IUJPOd0H9pTjr6o/r/nZgXUXGQmKReVAp5cWbP+oDpoyEJ9u3RyCK0C1UIl2xZEPnJwus5DkqIaYGHlcTvCbDBpZnEkwMMV00njnYkct2G8lh3270/lA3b436WxSNIbAxsgYwGCmI0OMyOQl1f1yQXGevwK/QLg3BCc+6aGGxtQw"
+  "signature": "cAzN2qdr7Dx9QXS1CYlqqcYHyvytQH4xxjY2jrQl1GekCGc1KwtcuTIb8BrB4JuJyIMe/CVvsHr9NJBFHUO9w4WaYjgM5/+6e4qOxyNISWOhHKN6P8mql+sChDdqyOf4GKHsCOWiEOEPufFWR0TclrX1YFNo28nbo04dm4PpeKQVMWMSo2IPrpkGxIjtqrVis478Rq5lvLuoL2uqxMQBxpbgaoDm1WWi/LRBQ8SryP/BvADclYpdbes9ftL5g/9C1uCaAUdyVF8bXnNhu4ci5hg9I2NjacVlZjplNZzvjDCJ9cKyiXpZFRaLGzlrq/+6o0JLNjyKLDuL4ZcVC7c73IlYcj2i53JCRHDmwHEVLOkfXkvSSnYS13PaYEIejuR5MFsTns8fPmpAVTF3VcLKxjcHnjfN6+HL574AWlJbj1lT/MCaVZAlc32awumzLqvWC1wBys3qZgb2uXq334hqDuWtTdgZBzOekZCsLSHjUuwzJOeW1B/loVxYAeLsmhJg"
 }

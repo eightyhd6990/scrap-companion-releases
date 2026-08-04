@@ -1,23 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.29.0-copilot-awareness",
-  "release_sequence": 34,
+  "version": "0.31.0-friendship-voice-upgrade",
+  "release_sequence": 37,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "1ab0658ed2409f4b73636a45cae4ed3624742abb961906fceb5943c30cd76b6f",
-  "size_bytes": 651445049,
-  "published_at": "2026-08-04T04:29:25.507292Z",
+  "sha256": "ef62df1e2601059b4f1a82cd5193978a27910d3a2413cb484897e812ae6d22de",
+  "size_bytes": 651457963,
+  "published_at": "2026-08-04T09:51:33.186584Z",
   "notes": [
-    "Co-Pilot awareness gives grounded route, danger, combat, resource, objective, extraction, and workflow guidance from the current game view.",
-    "Five distinct companions now mix useful observations with personality-specific reactions to funny, strange, tense, and memorable gameplay moments.",
-    "Expanded to 180 curated game profiles with at least 800 scenario responses each—more than 144,000 supported scenario variants.",
-    "Companions never ask players to take, upload, attach, or share screenshots; automatic screen analysis uses the current game view.",
-    "Screen awareness includes Off, Minimal, Balanced, and Co-Pilot choices, with explicit consent required before hosted vision can be enabled.",
-    "Observed frames are processed for the current response and are not stored as companion memory or shared with Crew.",
-    "This alpha update preserves existing settings, companion memories, friend state, and local databases.",
-    "Alpha software can still miss context; use the in-app feedback path to report incorrect guidance or game coverage gaps."
+    "Major friendship upgrade with warm, non-exclusive companionship and desktop awareness.",
+    "Rusty Wired Heart v3 and Iron Hare Crooked Theater v3 add first-class hosted emotional voice performances.",
+    "Layered contextual memory, adjustable desktop hangouts, and proactive conversation sparks are available in Systems.",
+    "Private Windows alpha; existing settings, account session, and companion memories are preserved."
   ],
-  "signature": "Zna5u5Y8i/5aTT1JM1L6i05ElUSp1YnvuMzPJRGvQWU9mTzmRkr8c8Z2V6qcZ9kTnjW0i7u/Qcwj7caTOHOt0ghMlAIPzjezLJMwynSgdqqPt48GldEY2oJdLSguETbBNx66givO2KYi+KNoJBT1Zp0sx6Bs5KPjjpGkvIeBl/0bBfgrykIUqGZwocVeZuIi9fK2hapX28BvHE1RHtQm86xpYh+wvws1jYcdVnTmhuTTPc7ym41MIhBY6+5Sq1EQmUro74XNWz+8ljbCFyH9XiHzsH3M7BHKLBvYkCi9EKwt1hAC9Ci5JuZneYp4qG44zVSB3ZdxlyaR2C8oT4kaDdgKWLT3UEr74hDDNjNd9thykynP4KnQtHfrxEFnJjMMofT2a1pYsm+NEM/mDPzk/1eFMZg+qekdcbbiRywL9Q7ht8shAK6idVvzZvzxAlwND7apXYofCTTpFmVzpHv1v+gINnF0fjSnWDunyT1cTSQeZVKXlCszRD6ib+zp49WD"
+  "signature": "fD+Miwn2ff/Dzo0Z/+AuSwXw4J0qrZmiudpzr2IUXOVcKrMbVWUNKJXjxDjGL45tT9njGFwINDEAbrOgUi7YMbxMEdz8cR2HVgxAKyqq6Xn3+JmMYurmzMEZwZpX4pbrI3446JzIaHepmf7TFpkIJJuhwgokF540tSyFAYU2xFgOk2KZp9yPBmMOArsB3gJgIZgd6ZQm31WhqqxLpGzPw6Ipktgk+ISHE4aa563uJMPxRGHqNmvzJcnVCsUcE7dvMURKf3Cld0RQoFvoWEbPBKT88h1NXf3QGf+co/dWslbqzzhQCZXdDK0SNXGslH2XfTwr1IOlP6m/So6ilBwfknFXUrARNaEnLGhSqb9xl+6qV4S0Iy7TBeECx8Iu1yn7TVJzbLY6ZnM2a3+cyLmDeCn9Y/IfvPuUO/a6eK0spfRDrG++0kqByfVLl6SnzqZp6tQm81u8qiRq/GRbeiNmuidTp7Qk4o1OVAQU6b/kgCPVqGNjnB8IC8d/oU9G1OdV"
 }

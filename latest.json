@@ -1,20 +1,23 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.28.0-crew-companion-control",
-  "release_sequence": 32,
+  "version": "0.29.0-copilot-awareness",
+  "release_sequence": 34,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "4e42587d96f069381e6235d5167727423bffb87c4a8f58901a9f9e06477caba8",
-  "size_bytes": 651438176,
-  "published_at": "2026-08-03T23:24:46.750106Z",
+  "sha256": "1ab0658ed2409f4b73636a45cae4ed3624742abb961906fceb5943c30cd76b6f",
+  "size_bytes": 651445049,
+  "published_at": "2026-08-04T04:29:25.507292Z",
   "notes": [
-    "Promotes the verified high-resolution mechanical interface to Live for friends.",
-    "Adds modern Crew Messenger with friend game status, invisible presence, custom logos, and private image sharing.",
-    "Adds companion-controlled messaging, friend status checks, event setup, and app navigation.",
-    "Includes Scrap, Vantrel, NOVA, Rusty Sentinel, and Iron Hare with verified HD animation packs and hosted voices.",
-    "Signed in-app update preserves each player's settings, session, and private memory."
+    "Co-Pilot awareness gives grounded route, danger, combat, resource, objective, extraction, and workflow guidance from the current game view.",
+    "Five distinct companions now mix useful observations with personality-specific reactions to funny, strange, tense, and memorable gameplay moments.",
+    "Expanded to 180 curated game profiles with at least 800 scenario responses each—more than 144,000 supported scenario variants.",
+    "Companions never ask players to take, upload, attach, or share screenshots; automatic screen analysis uses the current game view.",
+    "Screen awareness includes Off, Minimal, Balanced, and Co-Pilot choices, with explicit consent required before hosted vision can be enabled.",
+    "Observed frames are processed for the current response and are not stored as companion memory or shared with Crew.",
+    "This alpha update preserves existing settings, companion memories, friend state, and local databases.",
+    "Alpha software can still miss context; use the in-app feedback path to report incorrect guidance or game coverage gaps."
   ],
-  "signature": "cAzN2qdr7Dx9QXS1CYlqqcYHyvytQH4xxjY2jrQl1GekCGc1KwtcuTIb8BrB4JuJyIMe/CVvsHr9NJBFHUO9w4WaYjgM5/+6e4qOxyNISWOhHKN6P8mql+sChDdqyOf4GKHsCOWiEOEPufFWR0TclrX1YFNo28nbo04dm4PpeKQVMWMSo2IPrpkGxIjtqrVis478Rq5lvLuoL2uqxMQBxpbgaoDm1WWi/LRBQ8SryP/BvADclYpdbes9ftL5g/9C1uCaAUdyVF8bXnNhu4ci5hg9I2NjacVlZjplNZzvjDCJ9cKyiXpZFRaLGzlrq/+6o0JLNjyKLDuL4ZcVC7c73IlYcj2i53JCRHDmwHEVLOkfXkvSSnYS13PaYEIejuR5MFsTns8fPmpAVTF3VcLKxjcHnjfN6+HL574AWlJbj1lT/MCaVZAlc32awumzLqvWC1wBys3qZgb2uXq334hqDuWtTdgZBzOekZCsLSHjUuwzJOeW1B/loVxYAeLsmhJg"
+  "signature": "Zna5u5Y8i/5aTT1JM1L6i05ElUSp1YnvuMzPJRGvQWU9mTzmRkr8c8Z2V6qcZ9kTnjW0i7u/Qcwj7caTOHOt0ghMlAIPzjezLJMwynSgdqqPt48GldEY2oJdLSguETbBNx66givO2KYi+KNoJBT1Zp0sx6Bs5KPjjpGkvIeBl/0bBfgrykIUqGZwocVeZuIi9fK2hapX28BvHE1RHtQm86xpYh+wvws1jYcdVnTmhuTTPc7ym41MIhBY6+5Sq1EQmUro74XNWz+8ljbCFyH9XiHzsH3M7BHKLBvYkCi9EKwt1hAC9Ci5JuZneYp4qG44zVSB3ZdxlyaR2C8oT4kaDdgKWLT3UEr74hDDNjNd9thykynP4KnQtHfrxEFnJjMMofT2a1pYsm+NEM/mDPzk/1eFMZg+qekdcbbiRywL9Q7ht8shAK6idVvzZvzxAlwND7apXYofCTTpFmVzpHv1v+gINnF0fjSnWDunyT1cTSQeZVKXlCszRD6ib+zp49WD"
 }

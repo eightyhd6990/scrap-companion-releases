@@ -2,19 +2,19 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.42.0-ghost-comms-crew-voice",
-  "release_sequence": 116,
+  "release_sequence": 117,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "b458f6e008f3215d0fe0e25ec17699cfcc23e8addc27c8881fac01f407c92937",
-  "size_bytes": 721444341,
-  "published_at": "2026-08-15T23:08:49.778437Z",
+  "sha256": "181bc6e9f8639bae3f3b896930bced543fb12d94a90c180b412ebd8856902b80",
+  "size_bytes": 721408530,
+  "published_at": "2026-08-16T21:57:56.115118Z",
   "notes": [
-    "Ghost Mode now includes a movable, resizable companion comms panel with crisp full retained-turn messages and live Crew voice presence indicators.",
-    "Crew, Memory, Library, Settings, channels, profiles, tags, buttons, layouts, and responsive scaling received a comprehensive visual and usability upgrade.",
-    "All five HD companions support sharper 25-200% scaling, persistent placement, improved dragging, and restored navigation state.",
-    "Hosted companion voices and authenticated small-room Crew voice are included for the Windows alpha; Crew voice remains an HTTP/PCM alpha rather than WebRTC or end-to-end encrypted calling.",
-    "Performance, packaging, updater safety, shutdown, voice relay correctness, and recovery paths were audited and validated before publication."
+    "Fixed the Profile sign-out action and restored the main-page SIGN IN action immediately after logout.",
+    "Modernized Add Friend and profile/account windows now match the main ScrapLink theme and remain movable.",
+    "Redesigned Crew and movable Ghost communications remain included in the 0.42 friends alpha.",
+    "Hosted companion voices and authenticated small-room Crew voice passed the packaged release verifier.",
+    "The installer remains an unsigned Windows alpha; its RSA-signed manifest, sequence, size, and SHA-256 protect update delivery."
   ],
-  "signature": "Aui4azfaJDKPBYABuekTbersGeZnTE/G01XPc5r5GgRa8sI8xn7ZT2gXqJfyw/N/wPxP7fa/SN7Ff3hEYvhsW+NkvOf1n65EDU57fXKCkyYtVv1XDMuIHl8K5WsRZy8GW8jt77YClQbOmc0utI4F99uce9ADV/yi1pImz/onlr+xsDRdOOpsdZlxiMsi4H3gtYH/Kz6jwsiuSJmxMWn+fP1nI7dkWdYAhVqmfG4S3+Ito5B2+B8G+cIrPpDsfa4w85AnRJvnfOgTKdi2cNkXXznDeQDRHQKtkKirvYAP7rs0PbqemELbiN+Oocy9q01HQHhH2YTHxio361t8hrYJCuus6a0Rjn7KFolMYmmKQtyx4q3kK8poWwEKFeJ3W2g410swXCiKbJO2/YEI6rP6JpI6GBvW2NA5ZveiI40Zt0GYIvwS2zppYbUiRBWLFnYs2Hv84SvwruPTsVHlBl5AmXsj74QwO7p9esojqC1snwcySyfgTdX3xAoKuaIFAHpn"
+  "signature": "Lpyq+IX9DicBiaXhMBbK8Mxp9y20e740qwxIn1pod8fqJ9vEdAi3LoRsxrA9BgwQxG3Kiiui9au6VXh2wGTwGeYvP7qyYqFYpwUqZkt7GKjXyJuEpEVNB8qtfx62DPRQBT8tJa25bVHDPJcug3xkt/wP2GT0BZCsiuvxf388GsvTAjuO03FazIz/+/IJHKkQL+ul4lb/q/xsGf0lvh66/yKqhZRtoRvFQjyTw+e7M6ZG94ztEeEOOUmTy6421UObGHfMN2KNrxa/FIjph2niKV9AJlUcRY0eZuicLu3V3MwT8DDBemVkThGIkN4h4BJlRxbb21tYtYwPujBx9pMf+LRaSru4zyC0CTu3Oo9BttfrwOCQ0m72MLSX0GEc9/bUCNRDis2lV3MJqH2HQrh+ezQJj46NhMKSx2UaweKR55oHqldKAEsXcdS59b1Th2eY8M7o05+xBfQ65Yusr2uKvbnxS669lA3iw3xc380rnYjc4dsSeX/Z71CsEmZxYn4k"
 }

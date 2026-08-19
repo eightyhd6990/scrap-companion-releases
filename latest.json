@@ -2,19 +2,18 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.42.0-ghost-comms-crew-voice",
-  "release_sequence": 118,
+  "release_sequence": 119,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "ee6e79f072937f41847335019e29f2e726947254b139fa5d44d4c0937b32151d",
-  "size_bytes": 721430358,
-  "published_at": "2026-08-17T21:01:53.725617Z",
+  "sha256": "55160e37141eae8d8bd24af88655a4a3bc462c6f34f19fa9d9d3a2dc929d43e0",
+  "size_bytes": 721335581,
+  "published_at": "2026-08-19T23:07:41.890313Z",
   "notes": [
-    "Replaced the blank native update prompt with a themed, movable progress window that shows download status and install readiness.",
-    "Interrupted protected downloads now resume, and verified completed packages are reused after an app restart.",
-    "Signed-out players are directed to sign in before protected update downloads begin.",
+    "The main-page Friends panel now stays mapped through routine window reflows, preventing intermittent flicker.",
+    "Native clipped-border geometry is reused until the panel size changes, avoiding unnecessary redraws during presence refreshes.",
     "The packaged Windows release passed responsive UI, updater, hosted voice, state-preservation, and recovery verification.",
     "The installer remains an unsigned Windows alpha; its RSA-signed manifest, sequence, size, and SHA-256 protect update delivery."
   ],
-  "signature": "inlD/PVVell2D34U0TxFgkkNMKH50n6KDsk6dmZCywyeshyzSiSJsJbyKdtNuKp5/MQ/JYiLQ8bM1tfd3//ac/tt36O1S8ebHDs8idVCQGSr3C1JKPrtaruCDbjfYwDnbtLTJV2WxQWlRVvw0Chfr2nnyQOKBxedLJQfIgghNvtAD8/Fm4zASN+A4vw5eUx4HMkqnawsJJ/D4o11YbcazVF3auAqVjEq1yVIv0nHAEaW9VP88AniBCTPNozOOh2+Qwtw8x/Spe0MCpavazMGajPR3yMRhtxlMfJG2CTOEHP4KyLqDs61y2tA/E6XCFvBTp2ghHzkdC686ta/HxRrgiiPfoTM5ZPxEnRZM7ZveP1m7z6zMxczllTXjwAuaeZ4wgZ1S2zSOArT8tICTiZIw4/yGoxKshkmdXvdU5cMCx3SPZHtrQENOIBDatKPeMaSKNQQ+EFthM4EoyG9bRtokssZerVfPDFzV1y4roBD5wQKrOrstW/U9t3IAw3RJ1OE"
+  "signature": "N3wjVGQI0BgJp9STY+3PTooaxppmOWWKAu4/wQ6xINM9Lj4H8V5JLgM8X8PMFJSSOPCRNkrbOshu/KQKdCclrUIks66fbDeNGCXpWmyaLl7M6G1rZRjiHF3NUIapT1qykLpTdOVJH6iWOrcMmvh7mibDYVWqbQNAkjsINYuyz91nCaRTi7ey+qF2NCWuHO7B32hQR+ZnMWvceBWbxdQVxyEJi3HohtGLfS5RNrle7NaUK81FmKafioZf8kc9+ilHczN3nZJPrSbzLS0tFt3/K66k/TUPn/djamaH4b4sJO3V9fI/3SLbPqQ6veaoaIuwXt33QL1TbXGVorpgPyB4MsiJf9Qsoy1gUozmd5HTZhFnKkelBuiQrhBCT6kFGeqafhJiCFTJnYtRRqLThAf6g+/Ccve/tvHuuaLTOmpELXQ+zu7k1QrKSb/PG+bXILxwr1QcIBYr6sxXfBcpiS/3vPw2nl6fafrCEIm9dY6qGtlujVMLO0c0WTO8l6bHbNc5"
 }

@@ -6,11 +6,11 @@
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "7708f16bdd03d6826f52881220f8a1ed42867a677e040bd2b81749cec543367a",
-  "size_bytes": 736963699,
-  "published_at": "2026-08-22T06:48:30.327867Z",
+  "sha256": "f875ad5b6811a2edaa8f742239382043afbd93e17b91e344557d4817711e0699",
+  "size_bytes": 733254499,
+  "published_at": "2026-08-22T08:10:15.873776Z",
   "notes": [
     "Full Patch Lab promotion: Discord-style channels and invites, upgraded events and social activity, modern dialogs and responsive controls, companion selector and ghost-mode fixes, expanded game presets, profile media presets, and five additional tester seats."
   ],
-  "signature": "SAq0rm/DrcRshOyOZJfg3OYZ4RscKg6wu0GkcQKR2tHxezH6dSKogkoimjE22YvPWN/DNiUAyT7YBzIfIR8uRwtR1oBhaqn4YVZPYwNG6LK0t3+wHUnhjQz9j7/gCvghalHRbELVizVTfPIt2q8Dgl1OqzL5ujP4SUkQIMyxWJSIfBsKWuY7Y5uUchdxAgUg9iPe19+GH9iXaChuG04HNPbGAkiDBSyfP7b0LWIuUr6flU7DYFV9ARSUGIj07XzsDGDyP24em7Ts3TOpgnHJPThwOdvWNlseE3Ld1gI7ldkXVGiYSPtvmZjpKTARrA5N/Y5RWBZJaaQ0d9rWDJXZyhy0NmlIH1yOxCKITW5Z6QM3zyeiUI3MeM+W331k+jB+VRIlvB9myWS+O8Eaz8OG9S+q+K8+rkMQBahEzqzj6+x4H8dV8htb6f5ZL6u+ykZ0Kz2I6hI6akl7edbZdRHS866mzqh3Zg0TAEmLY80E4NlF1UMqZUnobljIvBG1diCA"
+  "signature": "Z85vaaHgvHozIIsd1FFywZs9pzwZtjCWu6wBsmU1A4U9wVPuxwwP59RDytxl1+RdjybqYyJHwLXtl9Gd2hngnaVavlj3a5CC1Br7fiAK93fUjWGABOnRxNdRbx3l4HmxPYuMOsX5diaGdgtrkbXcwXESnKWDI9uBKoQIY80fAAlm+JCIfPjI23+wdqeUEvbe0zZmJfvBha85Cjwd7wgAUSoq072L9YWAPJlLPnPftSI195ZKFACnpeu41iIODWQpg64R6OaZglfzdOPrm0KADIPt5ezQLrSwvyHsZdtLcdLHDwMn80UtO8FozuT9/csncTbDZ2NCYj7OoZ6f0DRD0LRUTCH+t3R5EKevk7gcRBT1t7dw3wfJPxxZ5fb6S2P0zF0qK98nAQBkT4s7wioCkXKK6M44z21fio6NpsVV1VDc8XHO/uEcijJUDHrO0OCCcriPPe+KicYC1JcX1j36p1pO3xHj4fxaDvoP+7Se52SMiUauYc4zO6aK6glxDQcW"
 }

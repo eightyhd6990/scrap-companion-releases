@@ -2,15 +2,17 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.42.0-ghost-comms-crew-voice",
-  "release_sequence": 123,
+  "release_sequence": 124,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "f875ad5b6811a2edaa8f742239382043afbd93e17b91e344557d4817711e0699",
-  "size_bytes": 733254499,
-  "published_at": "2026-08-22T08:10:15.873776Z",
+  "sha256": "679a1e04cd94af39eceb63ee48bed33eaa165100cdbf80fc003354b344d2fe81",
+  "size_bytes": 733541425,
+  "published_at": "2026-08-22T09:55:35.775759Z",
   "notes": [
-    "Full Patch Lab promotion: Discord-style channels and invites, upgraded events and social activity, modern dialogs and responsive controls, companion selector and ghost-mode fixes, expanded game presets, profile media presets, and five additional tester seats."
+    "Activity New Post hotfix: the composer now opens visibly above ScrapLink's topmost main window and stays recoverable if Windows changes stacking.",
+    "The themed movable composer now releases its modal input lock on close and restores the main window's previous stacking state.",
+    "Hosted voice probes reached the correct providers but were blocked by ScrapLink's existing monthly cloud-budget limit; this release does not increase spending."
   ],
-  "signature": "Z85vaaHgvHozIIsd1FFywZs9pzwZtjCWu6wBsmU1A4U9wVPuxwwP59RDytxl1+RdjybqYyJHwLXtl9Gd2hngnaVavlj3a5CC1Br7fiAK93fUjWGABOnRxNdRbx3l4HmxPYuMOsX5diaGdgtrkbXcwXESnKWDI9uBKoQIY80fAAlm+JCIfPjI23+wdqeUEvbe0zZmJfvBha85Cjwd7wgAUSoq072L9YWAPJlLPnPftSI195ZKFACnpeu41iIODWQpg64R6OaZglfzdOPrm0KADIPt5ezQLrSwvyHsZdtLcdLHDwMn80UtO8FozuT9/csncTbDZ2NCYj7OoZ6f0DRD0LRUTCH+t3R5EKevk7gcRBT1t7dw3wfJPxxZ5fb6S2P0zF0qK98nAQBkT4s7wioCkXKK6M44z21fio6NpsVV1VDc8XHO/uEcijJUDHrO0OCCcriPPe+KicYC1JcX1j36p1pO3xHj4fxaDvoP+7Se52SMiUauYc4zO6aK6glxDQcW"
+  "signature": "mybYyp0sXOqoC3q3FKV2FZXKl7NSyHoceiC/v6JRTPqeD/e3FbQePjXoI45VRlT1f14CVUc8XmldZfjOHN6J1H98RgrygcE3cT7fZry/cJDLovyl0D2xto1fPOCtVBMX8Vm6Tln7999OhG8ChpqhzfONBpzD5pb8zzrPyboBNpPFFTAdk7c/0igySPFqr+f9JkjPC7GK72l7QBPBpe1cNoNTBiKxErH4C09UFFay0R+VwJawXxX3F80qVdB4vJydUXXBbqVDQoWJfwo0Opph7wBNlod3syJAff+LZ2J5JLbfZWR5sYGa1RVftIMnxMJ6xNiBoXPXPzcHyqzufvcIo1TNPN0ehTgd2c/Ov4Qe0CFpBcoxERCl4ihHi2z9RG/uXbVBRR5ILiHEDfSdoWlm6P2WNNdj25UM102zB3+wWSZoa5ZbJ89NojBXRN/iXgYdBKofpwxyi7iHOdJ3YLiaiL6DRCr6VZH/rTrh8t9hnkpYo2b5gmaS4K70tybeS+S5"
 }

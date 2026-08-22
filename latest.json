@@ -2,18 +2,15 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.42.0-ghost-comms-crew-voice",
-  "release_sequence": 119,
+  "release_sequence": 123,
   "channel": "alpha",
   "package_type": "windows_installer",
   "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "55160e37141eae8d8bd24af88655a4a3bc462c6f34f19fa9d9d3a2dc929d43e0",
-  "size_bytes": 721335581,
-  "published_at": "2026-08-19T23:07:41.890313Z",
+  "sha256": "7708f16bdd03d6826f52881220f8a1ed42867a677e040bd2b81749cec543367a",
+  "size_bytes": 736963699,
+  "published_at": "2026-08-22T06:48:30.327867Z",
   "notes": [
-    "The main-page Friends panel now stays mapped through routine window reflows, preventing intermittent flicker.",
-    "Native clipped-border geometry is reused until the panel size changes, avoiding unnecessary redraws during presence refreshes.",
-    "The packaged Windows release passed responsive UI, updater, hosted voice, state-preservation, and recovery verification.",
-    "The installer remains an unsigned Windows alpha; its RSA-signed manifest, sequence, size, and SHA-256 protect update delivery."
+    "Full Patch Lab promotion: Discord-style channels and invites, upgraded events and social activity, modern dialogs and responsive controls, companion selector and ghost-mode fixes, expanded game presets, profile media presets, and five additional tester seats."
   ],
-  "signature": "N3wjVGQI0BgJp9STY+3PTooaxppmOWWKAu4/wQ6xINM9Lj4H8V5JLgM8X8PMFJSSOPCRNkrbOshu/KQKdCclrUIks66fbDeNGCXpWmyaLl7M6G1rZRjiHF3NUIapT1qykLpTdOVJH6iWOrcMmvh7mibDYVWqbQNAkjsINYuyz91nCaRTi7ey+qF2NCWuHO7B32hQR+ZnMWvceBWbxdQVxyEJi3HohtGLfS5RNrle7NaUK81FmKafioZf8kc9+ilHczN3nZJPrSbzLS0tFt3/K66k/TUPn/djamaH4b4sJO3V9fI/3SLbPqQ6veaoaIuwXt33QL1TbXGVorpgPyB4MsiJf9Qsoy1gUozmd5HTZhFnKkelBuiQrhBCT6kFGeqafhJiCFTJnYtRRqLThAf6g+/Ccve/tvHuuaLTOmpELXQ+zu7k1QrKSb/PG+bXILxwr1QcIBYr6sxXfBcpiS/3vPw2nl6fafrCEIm9dY6qGtlujVMLO0c0WTO8l6bHbNc5"
+  "signature": "SAq0rm/DrcRshOyOZJfg3OYZ4RscKg6wu0GkcQKR2tHxezH6dSKogkoimjE22YvPWN/DNiUAyT7YBzIfIR8uRwtR1oBhaqn4YVZPYwNG6LK0t3+wHUnhjQz9j7/gCvghalHRbELVizVTfPIt2q8Dgl1OqzL5ujP4SUkQIMyxWJSIfBsKWuY7Y5uUchdxAgUg9iPe19+GH9iXaChuG04HNPbGAkiDBSyfP7b0LWIuUr6flU7DYFV9ARSUGIj07XzsDGDyP24em7Ts3TOpgnHJPThwOdvWNlseE3Ld1gI7ldkXVGiYSPtvmZjpKTARrA5N/Y5RWBZJaaQ0d9rWDJXZyhy0NmlIH1yOxCKITW5Z6QM3zyeiUI3MeM+W331k+jB+VRIlvB9myWS+O8Eaz8OG9S+q+K8+rkMQBahEzqzj6+x4H8dV8htb6f5ZL6u+ykZ0Kz2I6hI6akl7edbZdRHS866mzqh3Zg0TAEmLY80E4NlF1UMqZUnobljIvBG1diCA"
 }

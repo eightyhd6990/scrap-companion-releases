@@ -2,17 +2,17 @@
   "schema_version": 1,
   "minimum_updater_version": 1,
   "version": "0.42.0-ghost-comms-crew-voice",
-  "release_sequence": 124,
+  "release_sequence": 125,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/ScrapLink-Setup.exe",
-  "sha256": "679a1e04cd94af39eceb63ee48bed33eaa165100cdbf80fc003354b344d2fe81",
-  "size_bytes": 733541425,
-  "published_at": "2026-08-22T09:55:35.775759Z",
+  "package_url": "https://scrap-link.com/api/update/releases/0c7d408248fd0d731e3c877e39dbf01d43763c98e7a651c33b70b36dbd1e64ca/ScrapLink-Setup.exe",
+  "sha256": "0c7d408248fd0d731e3c877e39dbf01d43763c98e7a651c33b70b36dbd1e64ca",
+  "size_bytes": 643710400,
+  "published_at": "2026-08-30T13:40:22.686137Z",
   "notes": [
-    "Activity New Post hotfix: the composer now opens visibly above ScrapLink's topmost main window and stays recoverable if Windows changes stacking.",
-    "The themed movable composer now releases its modal input lock on close and restores the main window's previous stacking state.",
-    "Hosted voice probes reached the correct providers but were blocked by ScrapLink's existing monthly cloud-budget limit; this release does not increase spending."
+    "Promotes the fully qualified Patch Lab interface to regular Live across Command Center, Crew, Memory, Library, and ScrapLink Social.",
+    "Adds a signed, account-gated offline speech pack with verified Kokoro speech and Faster-Whisper CPU/int8 transcription.",
+    "Signed in-app updates preserve each player's settings, account session, and memories."
   ],
-  "signature": "mybYyp0sXOqoC3q3FKV2FZXKl7NSyHoceiC/v6JRTPqeD/e3FbQePjXoI45VRlT1f14CVUc8XmldZfjOHN6J1H98RgrygcE3cT7fZry/cJDLovyl0D2xto1fPOCtVBMX8Vm6Tln7999OhG8ChpqhzfONBpzD5pb8zzrPyboBNpPFFTAdk7c/0igySPFqr+f9JkjPC7GK72l7QBPBpe1cNoNTBiKxErH4C09UFFay0R+VwJawXxX3F80qVdB4vJydUXXBbqVDQoWJfwo0Opph7wBNlod3syJAff+LZ2J5JLbfZWR5sYGa1RVftIMnxMJ6xNiBoXPXPzcHyqzufvcIo1TNPN0ehTgd2c/Ov4Qe0CFpBcoxERCl4ihHi2z9RG/uXbVBRR5ILiHEDfSdoWlm6P2WNNdj25UM102zB3+wWSZoa5ZbJ89NojBXRN/iXgYdBKofpwxyi7iHOdJ3YLiaiL6DRCr6VZH/rTrh8t9hnkpYo2b5gmaS4K70tybeS+S5"
+  "signature": "EG0USJWwViBc24ZtMYON8jt87HeM9YASqShOKnaE7uvYEi/fGkJt/M3G5ewV/cT5Ik2OL+wg9Z9jltez+F8m8SqYaz/sLLaQ07OhTOtjUV4AQMU/wmfI5AXU31EhVuxAf/UZ3wajGAdXeaNB4m3AJZP61I1mlLKbD+pud5zJrMrFSvk3MxmIIoWKSTVyYZHtzTWv59homWQtsSiXtBgfE2FlNODTevd8BDjoV8eWWohF0cekHrBbNMm0ifF4DeD+G1QNtVcxyXuRM1homQK5kZB4xcSgxHNa7dKahgNTJtyH2Q7XVzQYQ+x2fL2zWkDFKtqQ3XA/CzX8/yGi/x8oQ1WJ7aT6YUuDJxFZPCODuqFBPKDpOTy1IdPZqdeISPGbvY2ZFPql3LiCcFYC+OYb5zgd7YUPIV0fTZFNRDVV1eQpFIy72ri1OPyohzHk4rcoyCD2fKcXGOiv3xlSgkx4giZdf0e0pO8opfriGGZZffA0TdcQX8hTNMBVzEb1sVbE"
 }

@@ -1,20 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.44.0",
-  "release_sequence": 129,
+  "version": "0.45.0",
+  "release_sequence": 130,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/5ebcc988ef40a85d56396c095419cbe159b68bbfe5e6ac972545b39246b8e656/ScrapLink-Setup.exe",
-  "sha256": "5ebcc988ef40a85d56396c095419cbe159b68bbfe5e6ac972545b39246b8e656",
-  "size_bytes": 634592539,
-  "published_at": "2026-09-05T19:13:09.909989Z",
+  "package_url": "https://scrap-link.com/api/update/releases/01eb445f3e1d5dcd5eaacdb904744099ea96119246a67f25ade00c94ebea47d3/ScrapLink-Setup.exe",
+  "sha256": "01eb445f3e1d5dcd5eaacdb904744099ea96119246a67f25ade00c94ebea47d3",
+  "size_bytes": 628376088,
+  "published_at": "2026-09-05T21:10:36.958358Z",
   "notes": [
-    "Repairs the NOVA face and posture, Scrap motion timing, and Iron Hare arm rig.",
-    "Gives Sable a darker Western finish and rebuilds animation presentation across all six companions.",
-    "Adds native skeletal animation with 720p, 1080p, 4K, 8K and compatibility quality options.",
-    "Removes the black Ghost edge and keeps Ghost visible and anchored while opening or minimizing the main window.",
-    "Signed alpha updates preserve player settings, accounts and memory."
+    "Corrected NOVA arms and low poses, grounded Scrap feet, and steadied Sable head movement with smoother animation transitions and pause handling.",
+    "Rebuilt Settings as an independent resizable window with search, nine categories, and help for every control; Ghost stays in place.",
+    "Added relevant companion callbacks, persistent conversation preferences, private account and companion memory, and complete correction and forgetting controls.",
+    "Preserved existing saved data, with explicit review and import of older local memories, and retained 720p through 8K and compatibility graphics choices."
   ],
-  "signature": "STsVxuR4J637YmXELzAupye6OWfAQ8lOyOI1GJmRl0DHiWwEBbAPEe9zsttfAPLGLzPcSOV1aAZ3YvVMIyqe66gmb1odImqjL/Qn9EMOH/ryuU2QbGGOmuEQks9wbapjJT0ZeRy/t50ED5pxv5f+hJT0wx2aargtvODoPxqQOWX1CwyRgsd0mNRtFdCWSxjPiwxOANv11ESetBOh23k4X1n8NMV6O8P+8HGSKFpRH6PP0/wWqooXdLvC30n15WecTj3UX1S98kERXIw5DOWJiF3IXPmuN74Fh/y2x4YdJ9FyxPc3XcVs334GDrqISUwW/dLvlULmkPUF+OlK/OTjv34kUwgZ/enXvXUa9kzy2QHFsS1HeGQ03PQjazI57Bj9IqPu0m+5ftr2tfBsmrfRs/xZcVAbt1kpcs6Wd7hzUlqOyE+xL61YoIFXOo6L5u0LI7JZO6NdpSasvBXhha2//1dmp4rhHl8V/zglnglBV80AbsyB0+6vJZ5poTyZUrlO"
+  "signature": "FrQuGgElK4GXQygL7eORE5swhVELZPUc3msbdjV7FTtQ25TXimDTWPz9zAj/LNJGgE0IFW0gVvOGG+mowdtjoo0CTxYj/1xD7DiyR6MFLPgWyyObt603t4/xILDeHGC7neRumZFQQbd6ta3qHasbwt4zLelqYSsZyMnV8ZyLbIUFGBfZzJVUqpXOyNaicPEe2Wm3lGpoGEQpTMTGwESBuyF6SSFkY9rAoO1OC2pFgVty9jCDiJQlxdoWOf9+HeznjFlgfIEn6iFHn3gSyRZ5gX8iH1J7MbZZ06Y1iS3gVYDFu/yO8+jXjA7mh2PtivVjeV1oA8sQ9oyp9CU5C6MP+5u+aTAvpVQRpYxXds88OwoAQsSNeBLjeh+Tew/iXLy+7dllfdP4hRrQpDzPacxjIBDOAZ0XT5wMjaULgJzpLo7PpW+hpX/xVnp5bYZY2yntByH1v/jrFvvVCkgTtXprrrnBvxrl+N1Xoi06Of+m1ZISUbd+GZDqfleSJjc9PuZ6"
 }

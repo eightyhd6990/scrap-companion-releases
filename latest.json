@@ -1,16 +1,21 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.42.1-ghost-comms-crew-voice-hotfix",
-  "release_sequence": 126,
+  "version": "0.43.0",
+  "release_sequence": 127,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/e085e5ca9163819da249749a7989eaa42b3253bb79dc02c1ae8dd651001dabaa/ScrapLink-Setup.exe",
-  "sha256": "e085e5ca9163819da249749a7989eaa42b3253bb79dc02c1ae8dd651001dabaa",
-  "size_bytes": 643707118,
-  "published_at": "2026-08-30T19:55:20.888418Z",
+  "package_url": "https://scrap-link.com/api/update/releases/4942125f95e25d57c970dfba67e5090b65a9b0ed1999a3ec3dbc49c3cfb4cc0c/ScrapLink-Setup.exe",
+  "sha256": "4942125f95e25d57c970dfba67e5090b65a9b0ed1999a3ec3dbc49c3cfb4cc0c",
+  "size_bytes": 622271068,
+  "published_at": "2026-09-05T00:52:52.105795Z",
   "notes": [
-    "Correct misleading legacy offline-test fallback wording and normalize restored historical status without changing hosted AI or voice behavior."
+    "Promotes the qualified Live Patch interface and companion features to regular Live.",
+    "New Scrap artwork, animations, application icon, and installer icon.",
+    "Updated feed profiles, reactions, comments, discovery, and Crew navigation.",
+    "Faster game and launcher detection with duplicate greeting prevention.",
+    "Includes Companion Canvas and the native guide viewer.",
+    "Signed updates preserve player settings and memory; offline speech uses a separately verified model pack."
   ],
-  "signature": "csfDwkphJUAGPIZpMuMVcD4A20ENusR/uHUBi1kZIJcnhYr22/YNwiwx7NLYDbXa07I736TeS4nAniHS4P3xNBjgxZ3THjk6btCasCbZP8Eg9Yx2rl6FXjBKgHmpLgvgw8Sll+isFmPgNyQDVpAeLK2vubN0WrIKGLhC49x0FtJ5fLZTYS9DC5Y16S5rA1kQqTCNbE0eYKpY5QGcMdnjdRx85nOiU/bdU8BM2qu8IJ6wpPFt9qlAxmEkp+BCzX7oeP2k1Fm8x9f2GiLps45jct6S/fmwl7pEAvxuj3SrBepVbgjthB8J2LcT/MpJf2b6LSu+kxjAghMxiKrxt3nEYj2a11IDEnaTddNn7GkWugxYuRgcJiV2ahVuasxhi03CEgi4z5tdkQ0Ib+iFvn0nUbnG11E/Lxy0fsjMdRjWbV+vOStEoRfVMC8p2mVxDQFeNJiq7xQMbdwo4O6PPztnkQhvvvuMf3sPEvz9rQl1/Ex9MTZCVJXzZHaJQjJjNQ0C"
+  "signature": "VtCcsuZR5A+UMGXsA4GayQzci4hB9ImbiftgXNvxGvVIu2i5PY4ExiVggC9kzcxX5cOYXhqsrg54OLQJsTmPSIx0A6/XjHA4ZkGnIoUS4rLH+THbfd6b08RTWQU8xi4p5NH9j+i5Da9sT0/r8Pzdq5m5wFavgSxXfg6Tgz5yX/QOToba4r5e3Y4n04ddVX2HggFS3z9NCdZJouKhVYkoU3Ta+2WN95mxXF25fT/ti8YOIZ7LhwOVrTl0WQJd064vbkY3SS+rz0355p9o53BspBBqsu0unMcT4q8xqyIfHbxxH1rHvzFFzz8h1tpRWTzNlYm6ZXjLTSKva/R7B12JHhg3vMSHdbIub/Ds5wgUC0kPj+rephM6IHDQatNNzn61qHhKl2yUDgBajLIbP1rgPMfGzh/gIg8Al2s64rWhljTnp5HWhBlBhUZNfdJFYMnmDQNaE13SrFcuc+hsoourfmjDZRsZ2eUAKBMkBgShE55HRLbB2fSpVWBUUle82bUr"
 }

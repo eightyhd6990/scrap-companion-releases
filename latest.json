@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.45.0",
-  "release_sequence": 130,
+  "version": "0.46.0",
+  "release_sequence": 131,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/01eb445f3e1d5dcd5eaacdb904744099ea96119246a67f25ade00c94ebea47d3/ScrapLink-Setup.exe",
-  "sha256": "01eb445f3e1d5dcd5eaacdb904744099ea96119246a67f25ade00c94ebea47d3",
-  "size_bytes": 628376088,
-  "published_at": "2026-09-05T21:10:36.958358Z",
+  "package_url": "https://scrap-link.com/api/update/releases/cc26398f0735c3651daca288b8aaadc58287bd0405c1d659a2e63a003d4347eb/ScrapLink-Setup.exe",
+  "sha256": "cc26398f0735c3651daca288b8aaadc58287bd0405c1d659a2e63a003d4347eb",
+  "size_bytes": 628475307,
+  "published_at": "2026-09-06T11:53:44.959431Z",
   "notes": [
-    "Corrected NOVA arms and low poses, grounded Scrap feet, and steadied Sable head movement with smoother animation transitions and pause handling.",
-    "Rebuilt Settings as an independent resizable window with search, nine categories, and help for every control; Ghost stays in place.",
-    "Added relevant companion callbacks, persistent conversation preferences, private account and companion memory, and complete correction and forgetting controls.",
-    "Preserved existing saved data, with explicit review and import of older local memories, and retained 720p through 8K and compatibility graphics choices."
+    "Journey adds private plans for solo play, crews, and personal sessions, with steps, confirmed outcomes, correctable history, and next-session actions.",
+    "Turn a structured guide into a reviewable Journey draft, or export a selected playbook without private chat, run results, or account details.",
+    "Improved private continuity, account and companion isolation, memory preference handling, goal updates, session recaps, and stale resume-card recovery.",
+    "New independent Journey window with tooltips, keyboard help, compact layouts, and direct access from Settings."
   ],
-  "signature": "FrQuGgElK4GXQygL7eORE5swhVELZPUc3msbdjV7FTtQ25TXimDTWPz9zAj/LNJGgE0IFW0gVvOGG+mowdtjoo0CTxYj/1xD7DiyR6MFLPgWyyObt603t4/xILDeHGC7neRumZFQQbd6ta3qHasbwt4zLelqYSsZyMnV8ZyLbIUFGBfZzJVUqpXOyNaicPEe2Wm3lGpoGEQpTMTGwESBuyF6SSFkY9rAoO1OC2pFgVty9jCDiJQlxdoWOf9+HeznjFlgfIEn6iFHn3gSyRZ5gX8iH1J7MbZZ06Y1iS3gVYDFu/yO8+jXjA7mh2PtivVjeV1oA8sQ9oyp9CU5C6MP+5u+aTAvpVQRpYxXds88OwoAQsSNeBLjeh+Tew/iXLy+7dllfdP4hRrQpDzPacxjIBDOAZ0XT5wMjaULgJzpLo7PpW+hpX/xVnp5bYZY2yntByH1v/jrFvvVCkgTtXprrrnBvxrl+N1Xoi06Of+m1ZISUbd+GZDqfleSJjc9PuZ6"
+  "signature": "SdRRwlVqUhsvd1CHylrQTW8dEHFtF7yVc4OdjgJMy90bQnRITgp9Jl179EFhXsOYD6og00SstwDrYVtOJ2Bere2YYNoG4us7kBIN+NYHNr9cnwdwsJNBVgSnFgcwbZwWSc+oZI7h+/hbBAb/GqG7yRYA+3r1WdAA77izj+Wt2i7MdMRVRt+MJ5GyHRKtdlA1Cuwdxoe9HMxzAUHKzEl/tuG6hqWlUyxkpdSU1G8z470+sWZL1PiNslAaPf5dYx52JKZhjJ599k7Tvxspbr+W2ApgODSO4ffuN35H6CHBJ64BmyFpcCYhK7EjGuMsfe+xH4f+z2pLAmMBmMngSAVaC7vpvWwih9gpURUdcdjPuiANU0XVeuTDv1R81T5lF6v0xpNDP8upcUY/gV5Hge5nNnZZO1TznO0W7tPb1VRxOfqE1HxUFfzT52nwlNqRRovgw7tziSZymD0Vyol4/V26C2IHaOjCQ2wvr68r4DAF1Mskuy9uNma5hft1M2+X1SVo"
 }

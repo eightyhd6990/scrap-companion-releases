@@ -1,20 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.47.0",
-  "release_sequence": 132,
+  "version": "0.48.0",
+  "release_sequence": 133,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/613274f55d6ef08bd930304e9580e79aa384b04097b3f30b4c2821714dabe9b3/ScrapLink-Setup.exe",
-  "sha256": "613274f55d6ef08bd930304e9580e79aa384b04097b3f30b4c2821714dabe9b3",
-  "size_bytes": 632540203,
-  "published_at": "2026-09-06T17:26:55.194526Z",
+  "package_url": "https://scrap-link.com/api/update/releases/7414bc4995a2d4a40e3a4ba8a67527b1fa51ca9d05b49cb6345be7be551bd873/ScrapLink-Setup.exe",
+  "sha256": "7414bc4995a2d4a40e3a4ba8a67527b1fa51ca9d05b49cb6345be7be551bd873",
+  "size_bytes": 632533447,
+  "published_at": "2026-09-06T18:38:37.739474Z",
   "notes": [
-    "Modern color emoji with search, categories, skin tones and recent picks.",
-    "Create Channel opens a clear name and recipient workflow with confirmed invitations.",
-    "Modern post editor with live preview, removable attachments and optional backgrounds.",
-    "Drafts remain available during the app session; publishing waits for confirmation and prevents duplicate clicks.",
-    "Social refreshes, channel state and post drafts remain scoped to the signed-in account."
+    "Steadier Ghost idle presentation with fewer background redraws.",
+    "Sharper faces, clothing and edges at Balanced, 4K and 8K quality.",
+    "Cleaner transparent edges and recovery through brief frame interruptions.",
+    "Ghost placement and animation remain stable when opening or minimizing the main window."
   ],
-  "signature": "qdwCXg213I0PfMPRRkTye52PgfEK/6JPa68VYWhOTUOpHkFUTwiYDB/gObC04aPelIRa0WRBUTvZA+2clPOa0Pv9iehvYcXsZUFFGW6la5xCTNxU7Lp4jjdh6BQKYRIIq01Mkl63lRSD1lIKNXC4H56b+IcpS9GTqrcnB357A2ihHgbAYXXkxBjFe3+ydB8ZE/UPc96ohDJvABbUl70DS/XKZ3RWG5rg/xV0bP2VMhU9Ygmug2rA14pz1DPHXNSRt7xMYTTMrSxaQqP7+aWTKdAEbojZ9Nl5vXkhiwEDO80WmEZ7dhwiRCnYG2g6aNP9XgaxXHuLVR7wqpXkJ1oxBFOY7QgcBP+brqfzIZF5KW5DURFnZYKYchKMZiq82ow7xDlegC0xn2BPhE3Qrs6fobhoZNsLmNf5n9UxU9avAaGv/t8IsvoRKJskF7AjkRgWpwR0XQaJUfmd1TanjosgcVBt2I2o+07+0RabIrlxNGxrlaY/WMC2wf6InymwBRAC"
+  "signature": "RDOmEXueXtCWDrUelEOE3hdiVDPIXkM+g0ITaCzc7CkyW5yd2Gw+YC1SPFEnPyXP+UiIQJxcYQ6/s+kMPJXgZzgLnvJhPKhCf1VokritcweXlJcigQyso/uEF1l805n7+WTNVFa0OQbikGVSEJLbQcPuCAsXbG2ypWI0NtKOY8mXqapDEwPM0TzG4QFA4kxc5hZpxlCtjsgc2mNFsRVINL75XK1zZfXTpu9F/9fblrD2XG4XZg4Mub6cd5P+TFW6sIZAy5PoC1veir5e0+yYF6msVRwJnkCnA5L1BNxMY1V2LwsOEnc7Vj79WO9INXni7OAFbxBzu+PKeP/Qq1dTTReuPrUXjErbRfOUmBEilmDSDypB1M6IlTWAKrk1FPDdNwceBn8Lbrm9wjIqQhr2yEQA59OnV2kjfHZhfq0LEu3vY5Oy0rTMhy1622fbW+n7o/KTRFxsHxg+4a8XVM+8ogYYrmJvjeoWol85ExHhfETGg7vXEtuw39MMXenmzPQf"
 }

@@ -1,19 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.46.0",
-  "release_sequence": 131,
+  "version": "0.47.0",
+  "release_sequence": 132,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/cc26398f0735c3651daca288b8aaadc58287bd0405c1d659a2e63a003d4347eb/ScrapLink-Setup.exe",
-  "sha256": "cc26398f0735c3651daca288b8aaadc58287bd0405c1d659a2e63a003d4347eb",
-  "size_bytes": 628475307,
-  "published_at": "2026-09-06T11:53:44.959431Z",
+  "package_url": "https://scrap-link.com/api/update/releases/613274f55d6ef08bd930304e9580e79aa384b04097b3f30b4c2821714dabe9b3/ScrapLink-Setup.exe",
+  "sha256": "613274f55d6ef08bd930304e9580e79aa384b04097b3f30b4c2821714dabe9b3",
+  "size_bytes": 632540203,
+  "published_at": "2026-09-06T17:26:55.194526Z",
   "notes": [
-    "Journey adds private plans for solo play, crews, and personal sessions, with steps, confirmed outcomes, correctable history, and next-session actions.",
-    "Turn a structured guide into a reviewable Journey draft, or export a selected playbook without private chat, run results, or account details.",
-    "Improved private continuity, account and companion isolation, memory preference handling, goal updates, session recaps, and stale resume-card recovery.",
-    "New independent Journey window with tooltips, keyboard help, compact layouts, and direct access from Settings."
+    "Modern color emoji with search, categories, skin tones and recent picks.",
+    "Create Channel opens a clear name and recipient workflow with confirmed invitations.",
+    "Modern post editor with live preview, removable attachments and optional backgrounds.",
+    "Drafts remain available during the app session; publishing waits for confirmation and prevents duplicate clicks.",
+    "Social refreshes, channel state and post drafts remain scoped to the signed-in account."
   ],
-  "signature": "SdRRwlVqUhsvd1CHylrQTW8dEHFtF7yVc4OdjgJMy90bQnRITgp9Jl179EFhXsOYD6og00SstwDrYVtOJ2Bere2YYNoG4us7kBIN+NYHNr9cnwdwsJNBVgSnFgcwbZwWSc+oZI7h+/hbBAb/GqG7yRYA+3r1WdAA77izj+Wt2i7MdMRVRt+MJ5GyHRKtdlA1Cuwdxoe9HMxzAUHKzEl/tuG6hqWlUyxkpdSU1G8z470+sWZL1PiNslAaPf5dYx52JKZhjJ599k7Tvxspbr+W2ApgODSO4ffuN35H6CHBJ64BmyFpcCYhK7EjGuMsfe+xH4f+z2pLAmMBmMngSAVaC7vpvWwih9gpURUdcdjPuiANU0XVeuTDv1R81T5lF6v0xpNDP8upcUY/gV5Hge5nNnZZO1TznO0W7tPb1VRxOfqE1HxUFfzT52nwlNqRRovgw7tziSZymD0Vyol4/V26C2IHaOjCQ2wvr68r4DAF1Mskuy9uNma5hft1M2+X1SVo"
+  "signature": "qdwCXg213I0PfMPRRkTye52PgfEK/6JPa68VYWhOTUOpHkFUTwiYDB/gObC04aPelIRa0WRBUTvZA+2clPOa0Pv9iehvYcXsZUFFGW6la5xCTNxU7Lp4jjdh6BQKYRIIq01Mkl63lRSD1lIKNXC4H56b+IcpS9GTqrcnB357A2ihHgbAYXXkxBjFe3+ydB8ZE/UPc96ohDJvABbUl70DS/XKZ3RWG5rg/xV0bP2VMhU9Ygmug2rA14pz1DPHXNSRt7xMYTTMrSxaQqP7+aWTKdAEbojZ9Nl5vXkhiwEDO80WmEZ7dhwiRCnYG2g6aNP9XgaxXHuLVR7wqpXkJ1oxBFOY7QgcBP+brqfzIZF5KW5DURFnZYKYchKMZiq82ow7xDlegC0xn2BPhE3Qrs6fobhoZNsLmNf5n9UxU9avAaGv/t8IsvoRKJskF7AjkRgWpwR0XQaJUfmd1TanjosgcVBt2I2o+07+0RabIrlxNGxrlaY/WMC2wf6InymwBRAC"
 }

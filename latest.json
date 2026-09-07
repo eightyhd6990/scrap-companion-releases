@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.48.0",
-  "release_sequence": 133,
+  "version": "0.49.0",
+  "release_sequence": 134,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/7414bc4995a2d4a40e3a4ba8a67527b1fa51ca9d05b49cb6345be7be551bd873/ScrapLink-Setup.exe",
-  "sha256": "7414bc4995a2d4a40e3a4ba8a67527b1fa51ca9d05b49cb6345be7be551bd873",
-  "size_bytes": 632533447,
-  "published_at": "2026-09-06T18:38:37.739474Z",
+  "package_url": "https://scrap-link.com/api/update/releases/7b233cfe01db844f73bf3cfd30ef6445466b5605daaf48b69bbea53b78e0052a/ScrapLink-Setup.exe",
+  "sha256": "7b233cfe01db844f73bf3cfd30ef6445466b5605daaf48b69bbea53b78e0052a",
+  "size_bytes": 632685316,
+  "published_at": "2026-09-07T00:28:52.829518Z",
   "notes": [
-    "Steadier Ghost idle presentation with fewer background redraws.",
-    "Sharper faces, clothing and edges at Balanced, 4K and 8K quality.",
-    "Cleaner transparent edges and recovery through brief frame interruptions.",
-    "Ghost placement and animation remain stable when opening or minimizing the main window."
+    "Game Chat brings 200 launch game communities into ScrapLink.",
+    "Choose a public game room or a private room for your friends.",
+    "A movable game-themed chat overlay works alongside Ghost.",
+    "Clear companion addressing and short relevant follow-ups reduce replies to nearby conversation."
   ],
-  "signature": "RDOmEXueXtCWDrUelEOE3hdiVDPIXkM+g0ITaCzc7CkyW5yd2Gw+YC1SPFEnPyXP+UiIQJxcYQ6/s+kMPJXgZzgLnvJhPKhCf1VokritcweXlJcigQyso/uEF1l805n7+WTNVFa0OQbikGVSEJLbQcPuCAsXbG2ypWI0NtKOY8mXqapDEwPM0TzG4QFA4kxc5hZpxlCtjsgc2mNFsRVINL75XK1zZfXTpu9F/9fblrD2XG4XZg4Mub6cd5P+TFW6sIZAy5PoC1veir5e0+yYF6msVRwJnkCnA5L1BNxMY1V2LwsOEnc7Vj79WO9INXni7OAFbxBzu+PKeP/Qq1dTTReuPrUXjErbRfOUmBEilmDSDypB1M6IlTWAKrk1FPDdNwceBn8Lbrm9wjIqQhr2yEQA59OnV2kjfHZhfq0LEu3vY5Oy0rTMhy1622fbW+n7o/KTRFxsHxg+4a8XVM+8ogYYrmJvjeoWol85ExHhfETGg7vXEtuw39MMXenmzPQf"
+  "signature": "L+vXvqZt8f4Jynd5DIKmedcXfGG34aO2SQfKTOX0U71/W1MUw+aKSqwIC7jtIKAaWi+HS2y+hmw19+rIoc3YCQUQ0sEUrrKokoVZpN6l6Ia0YexvSSwIwpsxuh4GhdzUuSUBpYKD2+HAp19LOOcLFGnWukHIaAWcrf/VlRUUAv8S425gA0LMB8fQQVL5OOTITT9FbKqmhTH9YZ0jA4w92SGfwC3bCUYRpieO2lzbPypXxvSkwYVBYPyrc4ZeaGX9PO5uL1pbW2FwC8r0BGpAwQHaWJQ1HBYeN+AoYVMhTOWgeHOcqJ2XRHzZCeEigWKhkBMuc8fFD4q3UVW4BWdf5g7ao/ITEFUVbb1CG0WYqjyjhhVGq+vJEueBF5IVaycurjlDYqqoYbvLkaWtU16HzsZiFZJcGfjAKyou+iV4sfGwmi1hDiqlcX8QoNmzsgKFc5JWur+d1xJRqBADI05gjhQ5ROGTaKGxrB17r+zL9QaEAG9yAgOMRsEE8HoLGl5D"
 }

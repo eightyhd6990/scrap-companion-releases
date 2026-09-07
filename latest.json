@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.0",
-  "release_sequence": 136,
+  "version": "0.51.1",
+  "release_sequence": 137,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/effe3d2901e17c7fb953880b2820050d2ff4ce0d865c5b685865624dc7757a27/ScrapLink-Setup.exe",
-  "sha256": "effe3d2901e17c7fb953880b2820050d2ff4ce0d865c5b685865624dc7757a27",
-  "size_bytes": 632764288,
-  "published_at": "2026-09-07T17:39:43.068653Z",
+  "package_url": "https://scrap-link.com/api/update/releases/7e3fdc771c4bb66be7ff6d60a7b24cdf8b85d968141ffa3e2762c43f0e5850d2/ScrapLink-Setup.exe",
+  "sha256": "7e3fdc771c4bb66be7ff6d60a7b24cdf8b85d968141ffa3e2762c43f0e5850d2",
+  "size_bytes": 632656211,
+  "published_at": "2026-09-07T19:14:45.155394Z",
   "notes": [
-    "Centered Crew navigation and message photos with consistent spacing.",
-    "Companions keep their own identity and appearance; Iron Hare has a fuller right arm across native and compatibility animation.",
-    "Game chat opens above ScrapLink windows; overlay titles match the selected game.",
-    "Switch game, friend, group, call, and companion chats inside the overlay, with presence, unread indicators, separate drafts, and account-scoped call controls."
+    "Fixed Open overlay failing after game rooms load.",
+    "Added OVERLAY ON/OFF to Ghost with conversation drafts preserved between toggles.",
+    "Stopped Ghost control flashes caused by repeated window restacking while hovering.",
+    "Overlay stays available when the main window is minimized and its shortcut reopens hidden chats."
   ],
-  "signature": "er9T6h5vgC8b5tBgbMlSU4q2tQASSa8KHdIlNM8yODo1WofHYXhRhPaWk1FQVV4StZFMwuFV3crgOsuOG4lmh1jk6hzwuOlWcEpPuRUpVbxr7ASJoYHOHWNiDkZlRX3Fffvc6nYNVdRfGzmKqnA+acnc8+KEsE4Aim62SjsE/3wrsEFUkbCZV6T1pdhu0GoMWNOh5iUug/ToOVCc2TehFwJ/VT8YKfkEakGsb8GgVPIhy9lAMG6DP88gwx0ZFk5oWarMxF6mJxSGVlzHjoCdnJ4If+/4PWRWp8utnbXiLgUDbXhnRrZfA3ApPsGFTIPDtPyPlrWpKvS+UuZNahMVYrn0Lnz2/LDMrWZctE9rXTTr48YW6ZLj8wUWQUamUIHsGAl4tLaIvvGv1OonOOMWjzb4Y9wk7yK5DPwvvzQET2ep2p5h9SQWXzjM9FS+5f9xt5Sx+po3DR2oNirMrZW36QhPu/KHrwrka7UtNYN8JOxJQqgyzwIYSWlND2nLmqcP"
+  "signature": "MN5jXGVGcza6BMgtojKV1ReHltwZN4BvxCl88ngF+cR9AiD5JqelXPtZ9ts2tbxvphLkzEbsYjLRHTLF6VAILtJUVcCE+jyTuwADrlp4i6b2O25D53ny+JR+X3Rs14DVH5iMG0i/qi2fcXETG/fRkvmTuRbW8L1ToLpg+hbATimGsTCCgnfMAadxuVcMHiWF8Zv4f38NGTEwVnoEMAr/fHXdnJ78gTPT+ogpNMw3N8eJzg0REWGWjiejH7rpPcifOI911zcVA2LSr2WgX8mBo2ErKVh7l8FBlhtQJs5s5lE76YGmcHJNCDVPWqlJQhDbAD5LWZH0umIYnXQtRFIBT08ir7/3j+SP04rV1yL3rr7X/wlZIZ237B6JjfPT5TONch9PTS9HkznrqQCigVPZfZOFKSeKhtSBbL8/tlMQY4XllYdN/d5xGeprdQHLIDKtHQiiv8h33xeEtcW6O6TkpVWoZN3CPMJy7v1smj9oDE9ItiuBv5JQauI9iBoCkWqd"
 }

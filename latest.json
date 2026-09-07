@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.49.0",
-  "release_sequence": 134,
+  "version": "0.50.0",
+  "release_sequence": 135,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/7b233cfe01db844f73bf3cfd30ef6445466b5605daaf48b69bbea53b78e0052a/ScrapLink-Setup.exe",
-  "sha256": "7b233cfe01db844f73bf3cfd30ef6445466b5605daaf48b69bbea53b78e0052a",
-  "size_bytes": 632685316,
-  "published_at": "2026-09-07T00:28:52.829518Z",
+  "package_url": "https://scrap-link.com/api/update/releases/711c234c6c14b3c6805a48a39c0eb071d57d5215b417c79dcaaf8824814b81c9/ScrapLink-Setup.exe",
+  "sha256": "711c234c6c14b3c6805a48a39c0eb071d57d5215b417c79dcaaf8824814b81c9",
+  "size_bytes": 632643532,
+  "published_at": "2026-09-07T11:00:07.708409Z",
   "notes": [
-    "Game Chat brings 200 launch game communities into ScrapLink.",
-    "Choose a public game room or a private room for your friends.",
-    "A movable game-themed chat overlay works alongside Ghost.",
-    "Clear companion addressing and short relevant follow-ups reduce replies to nearby conversation."
+    "Faster Ghost window switching with one visible companion and stable desktop placement.",
+    "Expressive Scrap and Vantrel monitor faces with speech-driven mouth animation through 8K native quality.",
+    "Hands-free speech interruption, steadier mute and thinking indicators, fewer repeated mission invitations, and bounded background voice work.",
+    "Repaired friend photo delivery, resizing, metadata removal, and message previews."
   ],
-  "signature": "L+vXvqZt8f4Jynd5DIKmedcXfGG34aO2SQfKTOX0U71/W1MUw+aKSqwIC7jtIKAaWi+HS2y+hmw19+rIoc3YCQUQ0sEUrrKokoVZpN6l6Ia0YexvSSwIwpsxuh4GhdzUuSUBpYKD2+HAp19LOOcLFGnWukHIaAWcrf/VlRUUAv8S425gA0LMB8fQQVL5OOTITT9FbKqmhTH9YZ0jA4w92SGfwC3bCUYRpieO2lzbPypXxvSkwYVBYPyrc4ZeaGX9PO5uL1pbW2FwC8r0BGpAwQHaWJQ1HBYeN+AoYVMhTOWgeHOcqJ2XRHzZCeEigWKhkBMuc8fFD4q3UVW4BWdf5g7ao/ITEFUVbb1CG0WYqjyjhhVGq+vJEueBF5IVaycurjlDYqqoYbvLkaWtU16HzsZiFZJcGfjAKyou+iV4sfGwmi1hDiqlcX8QoNmzsgKFc5JWur+d1xJRqBADI05gjhQ5ROGTaKGxrB17r+zL9QaEAG9yAgOMRsEE8HoLGl5D"
+  "signature": "hGpB3IBMX8qY88fQG7jolXPGj9M5qRn/pErt9I9A9Bg8jhQ6siwfDqkMgojAkU8wuF1vNwLPIjmuwpeUNPfk298dHdjQ/Dz2okEBXOyUEmsXO1GrJe5pHO+NYs1wXlL+uYYa2tLprlcmfqyXbUtnwhLXOm6Dewxl/FoMPJqYzDHBu7t5Kjp9RE7uJW9SUZ5vXzdmE/uGq7ybpFDp9IQUcUqEnOk7Y0QqAbAmFAsWqhjsoG7GRpngRtngZarNQbKJkEBhjJsTOW08LsCtlgxK3ePtbByvCGsZWoIXT0G4HHVyyoKJY7JiSsCaSg8G+J61We0SS8ZakgGhqDpR7CU5WEwnluAt9ohIAnjBnvUnBJYHKhyxz6uJQ+u+3OAhX95UT9K36NHFUra6MamZgPzz4jT00KGZsxwr1oXc2J2dJCoHaPY5Gpzgp4UIy+iXh9zVqndVd1FxgjKK4/FeiRqkpHsFiTt3XLj5QTLoDyCJq7Z9qJJ0gG1lMj1EbO5q6oEQ"
 }

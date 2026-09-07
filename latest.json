@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.50.0",
-  "release_sequence": 135,
+  "version": "0.51.0",
+  "release_sequence": 136,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/711c234c6c14b3c6805a48a39c0eb071d57d5215b417c79dcaaf8824814b81c9/ScrapLink-Setup.exe",
-  "sha256": "711c234c6c14b3c6805a48a39c0eb071d57d5215b417c79dcaaf8824814b81c9",
-  "size_bytes": 632643532,
-  "published_at": "2026-09-07T11:00:07.708409Z",
+  "package_url": "https://scrap-link.com/api/update/releases/effe3d2901e17c7fb953880b2820050d2ff4ce0d865c5b685865624dc7757a27/ScrapLink-Setup.exe",
+  "sha256": "effe3d2901e17c7fb953880b2820050d2ff4ce0d865c5b685865624dc7757a27",
+  "size_bytes": 632764288,
+  "published_at": "2026-09-07T17:39:43.068653Z",
   "notes": [
-    "Faster Ghost window switching with one visible companion and stable desktop placement.",
-    "Expressive Scrap and Vantrel monitor faces with speech-driven mouth animation through 8K native quality.",
-    "Hands-free speech interruption, steadier mute and thinking indicators, fewer repeated mission invitations, and bounded background voice work.",
-    "Repaired friend photo delivery, resizing, metadata removal, and message previews."
+    "Centered Crew navigation and message photos with consistent spacing.",
+    "Companions keep their own identity and appearance; Iron Hare has a fuller right arm across native and compatibility animation.",
+    "Game chat opens above ScrapLink windows; overlay titles match the selected game.",
+    "Switch game, friend, group, call, and companion chats inside the overlay, with presence, unread indicators, separate drafts, and account-scoped call controls."
   ],
-  "signature": "hGpB3IBMX8qY88fQG7jolXPGj9M5qRn/pErt9I9A9Bg8jhQ6siwfDqkMgojAkU8wuF1vNwLPIjmuwpeUNPfk298dHdjQ/Dz2okEBXOyUEmsXO1GrJe5pHO+NYs1wXlL+uYYa2tLprlcmfqyXbUtnwhLXOm6Dewxl/FoMPJqYzDHBu7t5Kjp9RE7uJW9SUZ5vXzdmE/uGq7ybpFDp9IQUcUqEnOk7Y0QqAbAmFAsWqhjsoG7GRpngRtngZarNQbKJkEBhjJsTOW08LsCtlgxK3ePtbByvCGsZWoIXT0G4HHVyyoKJY7JiSsCaSg8G+J61We0SS8ZakgGhqDpR7CU5WEwnluAt9ohIAnjBnvUnBJYHKhyxz6uJQ+u+3OAhX95UT9K36NHFUra6MamZgPzz4jT00KGZsxwr1oXc2J2dJCoHaPY5Gpzgp4UIy+iXh9zVqndVd1FxgjKK4/FeiRqkpHsFiTt3XLj5QTLoDyCJq7Z9qJJ0gG1lMj1EbO5q6oEQ"
+  "signature": "er9T6h5vgC8b5tBgbMlSU4q2tQASSa8KHdIlNM8yODo1WofHYXhRhPaWk1FQVV4StZFMwuFV3crgOsuOG4lmh1jk6hzwuOlWcEpPuRUpVbxr7ASJoYHOHWNiDkZlRX3Fffvc6nYNVdRfGzmKqnA+acnc8+KEsE4Aim62SjsE/3wrsEFUkbCZV6T1pdhu0GoMWNOh5iUug/ToOVCc2TehFwJ/VT8YKfkEakGsb8GgVPIhy9lAMG6DP88gwx0ZFk5oWarMxF6mJxSGVlzHjoCdnJ4If+/4PWRWp8utnbXiLgUDbXhnRrZfA3ApPsGFTIPDtPyPlrWpKvS+UuZNahMVYrn0Lnz2/LDMrWZctE9rXTTr48YW6ZLj8wUWQUamUIHsGAl4tLaIvvGv1OonOOMWjzb4Y9wk7yK5DPwvvzQET2ep2p5h9SQWXzjM9FS+5f9xt5Sx+po3DR2oNirMrZW36QhPu/KHrwrka7UtNYN8JOxJQqgyzwIYSWlND2nLmqcP"
 }

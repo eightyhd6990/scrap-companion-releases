@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.2",
-  "release_sequence": 138,
+  "version": "0.51.3",
+  "release_sequence": 139,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/2e8adc4c352397c54bb3b38208b7afc14289696ce2d3d56ecc139acb5435c386/ScrapLink-Setup.exe",
-  "sha256": "2e8adc4c352397c54bb3b38208b7afc14289696ce2d3d56ecc139acb5435c386",
-  "size_bytes": 632803961,
-  "published_at": "2026-09-07T19:59:37.406426Z",
+  "package_url": "https://scrap-link.com/api/update/releases/037a631c928e562679c1b5b58c97efac626baf228d49f5d6b59b0688cf33a5eb/ScrapLink-Setup.exe",
+  "sha256": "037a631c928e562679c1b5b58c97efac626baf228d49f5d6b59b0688cf33a5eb",
+  "size_bytes": 632649613,
+  "published_at": "2026-09-08T18:12:58.404498Z",
   "notes": [
-    "Fixed blank companion selector on repeated companion changes.",
-    "Ghost now has compact Window, Overlay, Mute, and Lock controls.",
-    "Comms and Channels are available in the overlay, with access to channel management.",
-    "Opening the selector from Ghost keeps the companion in place and restores the main window."
+    "Ghost moves your companion onto the desktop while keeping the main window open.",
+    "Click Ghost again to return the companion to the main window; repeated toggles remain consistent.",
+    "The companion is visible in one place at a time and remembers its Ghost position.",
+    "Window access from the Ghost panel keeps the desktop companion active."
   ],
-  "signature": "qHaOD+GNyHpRCpT9SgQv9Onb7FBr3GiYvKrZ9OucrnIBLTCvMSUHFkRkUzGhbHEy9vDr9yg5plea5Q2PvABq9GgHuuzZVP2U5R2331+uhlddW4HM20/Yh9KQdrLxoZa6swYXSOa/Yj+P7HlEdzphCxd3X7y3nM75cy2EmEYEC73ymaFWofBR3v1UTnliUJdAM0GISjesoj6XyeOmyIpTtVmj1JdsugVAeZEYcZ0c+vYj1iRKLQNP1FnGn5yTQ11t0pzT0D/UhYVbQKrHI9e1q6yDJ7xRjRgTl9B1/PtN+ILCInpgmeNCGIHecnp5kByNcnZG50UOWCQZKlbOhcdhq8a0Z6dh9BAfAfM6RuE6HRXzDR8uptPls5C3FJfV7c0I+RjhEXkKOwZanZd9v4qisQA2f42Ys6co2jjrZFk26C+28vfO1QScaT4xiDwLAKM6H+KoIyzOpQcnIzscxrN2kGn6HZbP4iJK4wmeZ/iPDj/S4RHHZT54/giiOPBPtdBF"
+  "signature": "LqktFp5u0YWBEFEgZJa0YMD1W6wC9adWsvshXbhQgV3zcbWhNtJtwbSLdL2dm8asyZskY6gDhcYMY8ytlbHRtCsofH90qlahV7+VxOMe8rQ2sJtncGmxzxi+xZltcYfzFjA5O3Ipfjyfu71nPfsu+vcLk9pcqpy6BxnIPOPN1VepGgn8rnBI+mkKRIZ4zh+CFlQFEwNnsIVzrKfXclyqj4pak/3aZ+HsZo0jG7DjREp1P+BmXDsd3ViS7ufwy8LbPmAUxrH/vlQ90DEcUGzoGBXN2eIQ+DpfoNBpG7Sm+3iaXJoiEVoLpNSQfNwbBGNxH1v7UcwxAcLJtR0YqSvTdH7v2SHIe5pUgJITLWqk5K1n/zLNMvvXX/s6o4HtJq2dtMlTrD6dNj+jEcTeVE6PW22ZA7jFQYjZBzymUZywtCgqtG22S/f9Utm6Xec7b869YPo+T5wfxRZ0sWebGRl16WA6Bc/cknnlaRjicdF4ucIJ/SCAyHzX/KJZIvEaMEI2"
 }

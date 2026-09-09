@@ -1,19 +1,18 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.3",
-  "release_sequence": 139,
+  "version": "0.51.4",
+  "release_sequence": 140,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/037a631c928e562679c1b5b58c97efac626baf228d49f5d6b59b0688cf33a5eb/ScrapLink-Setup.exe",
-  "sha256": "037a631c928e562679c1b5b58c97efac626baf228d49f5d6b59b0688cf33a5eb",
-  "size_bytes": 632649613,
-  "published_at": "2026-09-08T18:12:58.404498Z",
+  "package_url": "https://scrap-link.com/api/update/releases/c75e86e66a84a60c4306d4eae0e1b89729747228c1bb1240f3a4b8beb54dc7a7/ScrapLink-Setup.exe",
+  "sha256": "c75e86e66a84a60c4306d4eae0e1b89729747228c1bb1240f3a4b8beb54dc7a7",
+  "size_bytes": 632790240,
+  "published_at": "2026-09-09T17:15:08.629270Z",
   "notes": [
-    "Ghost moves your companion onto the desktop while keeping the main window open.",
-    "Click Ghost again to return the companion to the main window; repeated toggles remain consistent.",
-    "The companion is visible in one place at a time and remembers its Ghost position.",
-    "Window access from the Ghost panel keeps the desktop companion active."
+    "Settings categories and action buttons respond correctly to pointer clicks.",
+    "Companion Selector has its own framed background and a dedicated Companion Settings button.",
+    "Name, Personality, Voice and Background shortcuts focus the actual profile controls."
   ],
-  "signature": "LqktFp5u0YWBEFEgZJa0YMD1W6wC9adWsvshXbhQgV3zcbWhNtJtwbSLdL2dm8asyZskY6gDhcYMY8ytlbHRtCsofH90qlahV7+VxOMe8rQ2sJtncGmxzxi+xZltcYfzFjA5O3Ipfjyfu71nPfsu+vcLk9pcqpy6BxnIPOPN1VepGgn8rnBI+mkKRIZ4zh+CFlQFEwNnsIVzrKfXclyqj4pak/3aZ+HsZo0jG7DjREp1P+BmXDsd3ViS7ufwy8LbPmAUxrH/vlQ90DEcUGzoGBXN2eIQ+DpfoNBpG7Sm+3iaXJoiEVoLpNSQfNwbBGNxH1v7UcwxAcLJtR0YqSvTdH7v2SHIe5pUgJITLWqk5K1n/zLNMvvXX/s6o4HtJq2dtMlTrD6dNj+jEcTeVE6PW22ZA7jFQYjZBzymUZywtCgqtG22S/f9Utm6Xec7b869YPo+T5wfxRZ0sWebGRl16WA6Bc/cknnlaRjicdF4ucIJ/SCAyHzX/KJZIvEaMEI2"
+  "signature": "f+GU9tEMfHcBjrFyM93sY6VkgxO0yDayYzhMIH1tGOmWENPEbvGl7GthrmoEpoIlVmGh1eiRkQIVS93DXHF5l3n25/HKeziZv1m5DzidsG13TcWUqedqtlze0fpuanSR5JpP9fWz5G8ALK8q0ovjnLnqXFrnl8zfr1PdeqIsKLjWQHoP7Kg8mjW8RAI/KxUSes/s1aerp+wqaja1kOtuAwmu/8/oQ+rdpZZly4MExKyJg52wALZt88jGqTiO4g6gltZjCin95rkv1zp79AinZVD6CYJ4g/DhoaWTCFAsS/mhMhoR1yDhzNWnkN1hyVyCWwiGQoK8jcABMwbTTxSBTa0ektICkQsRGxwb71nd/1xo3GY3c89+byFR6+F2k10nnkmlxOj3soRjL0+X7MMDXEUPP3m/8Xlc29GhY+/YC/NJdX686UCyQzA3P8V2CDl5ybZ4kQayYzwHl6eCH5sxqEfNKEA0pmzjslKqFkN2ipd4sXlg94R6TF6R/Mw2eOYx"
 }

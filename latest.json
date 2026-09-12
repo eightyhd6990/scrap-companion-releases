@@ -1,18 +1,21 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.4",
-  "release_sequence": 140,
+  "version": "0.51.15",
+  "release_sequence": 151,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/c75e86e66a84a60c4306d4eae0e1b89729747228c1bb1240f3a4b8beb54dc7a7/ScrapLink-Setup.exe",
-  "sha256": "c75e86e66a84a60c4306d4eae0e1b89729747228c1bb1240f3a4b8beb54dc7a7",
-  "size_bytes": 632790240,
-  "published_at": "2026-09-09T17:15:08.629270Z",
+  "package_url": "https://scrap-link.com/api/update/releases/f6150fe261d130fca00fc3db3d10119bf970cbfc2434fcc1a2cdc033df0bd40e/ScrapLink-Setup.exe",
+  "sha256": "f6150fe261d130fca00fc3db3d10119bf970cbfc2434fcc1a2cdc033df0bd40e",
+  "size_bytes": 632740233,
+  "published_at": "2026-09-12T21:11:01.728657Z",
   "notes": [
-    "Settings categories and action buttons respond correctly to pointer clicks.",
-    "Companion Selector has its own framed background and a dedicated Companion Settings button.",
-    "Name, Personality, Voice and Background shortcuts focus the actual profile controls."
+    "More reliable voice wake-up, including a companion name followed by a short pause and your question.",
+    "Longer natural conversations, with clearer listening handoffs and more reliable replies.",
+    "Improved memory of ongoing activities, plans, and earlier conversations across sessions.",
+    "Broader Star Citizen research and follow-up context, with current-source lookups and clearer handling of unofficial information.",
+    "Simplified companion overlay, movable direct-chat bar, and refreshed thinking indicator.",
+    "Fixed feed image overflow, chat-bar pointer flicker, and refined Scrap and Vantrel expressions."
   ],
-  "signature": "f+GU9tEMfHcBjrFyM93sY6VkgxO0yDayYzhMIH1tGOmWENPEbvGl7GthrmoEpoIlVmGh1eiRkQIVS93DXHF5l3n25/HKeziZv1m5DzidsG13TcWUqedqtlze0fpuanSR5JpP9fWz5G8ALK8q0ovjnLnqXFrnl8zfr1PdeqIsKLjWQHoP7Kg8mjW8RAI/KxUSes/s1aerp+wqaja1kOtuAwmu/8/oQ+rdpZZly4MExKyJg52wALZt88jGqTiO4g6gltZjCin95rkv1zp79AinZVD6CYJ4g/DhoaWTCFAsS/mhMhoR1yDhzNWnkN1hyVyCWwiGQoK8jcABMwbTTxSBTa0ektICkQsRGxwb71nd/1xo3GY3c89+byFR6+F2k10nnkmlxOj3soRjL0+X7MMDXEUPP3m/8Xlc29GhY+/YC/NJdX686UCyQzA3P8V2CDl5ybZ4kQayYzwHl6eCH5sxqEfNKEA0pmzjslKqFkN2ipd4sXlg94R6TF6R/Mw2eOYx"
+  "signature": "E+m38itI/zHDc36qOGCwd5OYRD+coKe6rBPLrH+lnfoxoUyofDcmfi7Z+s7d+zgfGbn/V6YDGcpzC0Ojw6m3E5dwMLI3/kPV1D9/QwXsANHm8Peax4H+Karw6B5FImdrC/AlLqFI43KiY97hYzSWR3+amvHdZDW4FTwrr2ZE1LqZc5jfnKy4l2T9IqE8tYTA4IiAeqrfZC+/xgSkX4rf3pScErtDd6tFjfnILehbsIJOKoldgJl3Z/T65KsXttEYnwGyMDBTSuIV9c1oHFrcv8BAW4xrYvGp0XoOjJKauSwMTs3agL5KQSWWOVGDEEHhgGPLwZwkHaK4PUGzvvhknOxii0Xw1Ro17SRBr/9Q6YpzgJaIUO2cHjjOFLFzoRIXUr0xxjNp6+yJRHBnBbga8Bpnph4SZ6AoXGUATr4f4YQk4txITKI2FmNl2AY9V4PIOcL0/qsEvN+vAy5jGeR8QStabssyu7TscHvwJEjbCE9d17a6QXucEM4bR3yqHEVS"
 }

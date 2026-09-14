@@ -1,21 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.15",
-  "release_sequence": 151,
+  "version": "0.51.16",
+  "release_sequence": 152,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/f6150fe261d130fca00fc3db3d10119bf970cbfc2434fcc1a2cdc033df0bd40e/ScrapLink-Setup.exe",
-  "sha256": "f6150fe261d130fca00fc3db3d10119bf970cbfc2434fcc1a2cdc033df0bd40e",
-  "size_bytes": 632740233,
-  "published_at": "2026-09-12T21:11:01.728657Z",
+  "package_url": "https://scrap-link.com/api/update/releases/7f4c7d041f94571506e68cffad8b928bfd3e9d8bb7a9cbf5db22ee7a80dce48f/ScrapLink-Setup.exe",
+  "sha256": "7f4c7d041f94571506e68cffad8b928bfd3e9d8bb7a9cbf5db22ee7a80dce48f",
+  "size_bytes": 642767378,
+  "published_at": "2026-09-14T15:21:20.374899Z",
   "notes": [
-    "More reliable voice wake-up, including a companion name followed by a short pause and your question.",
-    "Longer natural conversations, with clearer listening handoffs and more reliable replies.",
-    "Improved memory of ongoing activities, plans, and earlier conversations across sessions.",
-    "Broader Star Citizen research and follow-up context, with current-source lookups and clearer handling of unofficial information.",
-    "Simplified companion overlay, movable direct-chat bar, and refreshed thinking indicator.",
-    "Fixed feed image overflow, chat-bar pointer flicker, and refined Scrap and Vantrel expressions."
+    "Sable Flint now has chestnut leather, a tobacco hat, sand-colored sleeves, and weathered brass details.",
+    "Iron Hare has amber eyes, repaired shoulder and sleeve deformation, and a calmer resting pose.",
+    "NOVA has lower shoulders and more natural arm spacing, with existing gestures and seated motion preserved.",
+    "Calmer conversation gestures and smoother animation restarts and direction changes across companions."
   ],
-  "signature": "E+m38itI/zHDc36qOGCwd5OYRD+coKe6rBPLrH+lnfoxoUyofDcmfi7Z+s7d+zgfGbn/V6YDGcpzC0Ojw6m3E5dwMLI3/kPV1D9/QwXsANHm8Peax4H+Karw6B5FImdrC/AlLqFI43KiY97hYzSWR3+amvHdZDW4FTwrr2ZE1LqZc5jfnKy4l2T9IqE8tYTA4IiAeqrfZC+/xgSkX4rf3pScErtDd6tFjfnILehbsIJOKoldgJl3Z/T65KsXttEYnwGyMDBTSuIV9c1oHFrcv8BAW4xrYvGp0XoOjJKauSwMTs3agL5KQSWWOVGDEEHhgGPLwZwkHaK4PUGzvvhknOxii0Xw1Ro17SRBr/9Q6YpzgJaIUO2cHjjOFLFzoRIXUr0xxjNp6+yJRHBnBbga8Bpnph4SZ6AoXGUATr4f4YQk4txITKI2FmNl2AY9V4PIOcL0/qsEvN+vAy5jGeR8QStabssyu7TscHvwJEjbCE9d17a6QXucEM4bR3yqHEVS"
+  "signature": "BvKKoon3S9WedpI2DIL3d1EhNTTYvcXZBIlgRyElC28zTXNTB7iHBZ3oPYmMEaQFr8R8QGAt3LCTCxmTGMDBKX5DcVynYhWHP4mYf2tccGEpSrE//QisGJ+K9Sol3tEBrGCU7ITWtTvFtkafIjUWWG94eqxzafoAcAjwZEH6j++1OEG9CNZ6U0ND+niw43bT9AjjIgCutPyMIiD6k6KY3zqWBOvfs/75+Ydc6W0D8wmcHZ8uu8ok5k4VQO9oWyRAv4XxnbRAoPqd+k2rne2BIDWZkc9yDovuvm3LoUS5nKc6CRejWOB4006XvhNinMQTjDWBEklMsL/nQrst3jqOxSA5cBLSw8d7Z0itFTTjAg+DNX5+qsuMSStnwWsfsDTGBomOj8JoC04xM8lUUzSKyhvF0OJWDgb5sFXRszD4AePfVnDHeqCPGe6HUy9RAzMexpRlGoLdO6fTpTpprjKoEWwINrr2hJkQ64dg3X7gmSF+1TEmMNeIlckcUKql3q5k"
 }

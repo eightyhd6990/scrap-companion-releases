@@ -1,18 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.17",
-  "release_sequence": 153,
+  "version": "0.51.19",
+  "release_sequence": 155,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/cdf1171693239e6a5e200d0874ae29f89c716abb27bb774831af14ae2cd81baf/ScrapLink-Setup.exe",
-  "sha256": "cdf1171693239e6a5e200d0874ae29f89c716abb27bb774831af14ae2cd81baf",
-  "size_bytes": 642913020,
-  "published_at": "2026-09-14T17:57:27.899227Z",
+  "package_url": "https://scrap-link.com/api/update/releases/83252af49c439183a56e8418558853d9620db269a257b2d6dfce419824ab26b2/ScrapLink-Setup.exe",
+  "sha256": "83252af49c439183a56e8418558853d9620db269a257b2d6dfce419824ab26b2",
+  "size_bytes": 642999448,
+  "published_at": "2026-09-19T15:59:01.867878Z",
   "notes": [
-    "Sharper thinking indicators and Ghost text-bar artwork at common Windows display scales.",
-    "Better Star Citizen blueprint and crafting follow-ups, with broader source discovery and clearly qualified unofficial findings.",
-    "Simple research questions use lighter reasoning, with bounded retries and recovery when a lookup produces no readable answer."
+    "Wake your companion by saying their name or Hey followed by their name, then ask your question naturally.",
+    "Removed added wake filters that could reject a recognized name or wait for a second recognizer to agree.",
+    "Restored the original Windows default microphone path without automatic wake volume boosting.",
+    "The mute button remains available in the main window and Ghost controls."
   ],
-  "signature": "mPbYHU3H9C7BbeJEyQLN6lqvw9LokccdUAx1j/DEFARl7i60xgoKcDjsJj7DgutXiaf8ed9ITdBy+3ZF9flE1/wyTYJPBbnZitP8Az68EJ7poSLq5HPaPDETFKzlEsbhy12YD2MSH9JK9AFsD3ghWqMnEzJfRMqgAESGZ2F4BukdT6qom6m0GHcH4pnKWS6IRjY7AFu7hOS0aBubuzMzigxrezuTi8rJRrZhAlM8Fg3N9/K2qJDU71aFxl9zKoHbvUPS+7hRFdRh27c6ozgnegR6H9/W9U2hI5uWIrHqAAIXq1CJ0x6Q6WCUecQ0omeT7Ji+9GNlvGq90AKsLpwMwtDM2ZjO0VTsYErkiyBOThRQalbN7VHS1kNqvmN8SO4+cHuWDB/MVj1/Gh2QKng7Q7T7d8uyYPgxElLDRqFIgU2NLxoEjr3ZbdiGAw3+VYZxZkbwzIpKwugRKbKdsUPuLKpS8HqmdGIKtAI/dKiRHmoyZuwXesi2Yq8E+fZQWDKr"
+  "signature": "V7paRn642ij+z3sC1zuj9uhuRb9139w7a4mxMi2eBRKkxM5pEERUiKzeLm69csvC0EkNcGsMmbVpnPXZBK8HTKS7F+U6iez/T8CiQG5OOi2k4o7/IKANn3iFL7SnI6CY5fpY45Z0RtKlPJWOAWB5fNnpVPegqSqp13zb6EHrwIdBg/yloxtLvFoMZ11CDCZzAwXnYm6ZpNCM38v1tEvrLMsqbZbY7IOPHIpa7L7pzuYK/q9zXy8FqNVn/jmuR1qQdyvlwJC2EWSCUJciHGzXd91Ofq1FcJGK8YDBSKdC9DxfLE++uLwliwcb63f3zuBSy8ey+qFs7Vq4iFJqhN4We9wDlNpERzdJZTiRy3EM6SRgvvubGe8YExys0nxPrlZd01ULgKYX+zBhVhvAYhkwO/35qtLBsTtVsIVzpvvIDLb34rhvEaT9ycn60UwLayN8pNKNROe9a0tpxy4ZsC+D0Bd5ljzOkTQPMhi5NRuWCejj+/Godxfzvj4l2PIPv89b"
 }

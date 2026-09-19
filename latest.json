@@ -1,21 +1,20 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.21",
-  "release_sequence": 157,
+  "version": "0.51.22",
+  "release_sequence": 158,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/d3eb91c122fde7da737a30af935991ae0aae1a1cc87ed249eae3ecd36eb5f129/ScrapLink-Setup.exe",
-  "sha256": "d3eb91c122fde7da737a30af935991ae0aae1a1cc87ed249eae3ecd36eb5f129",
-  "size_bytes": 644104299,
-  "published_at": "2026-09-19T17:48:31.503394Z",
+  "package_url": "https://scrap-link.com/api/update/releases/5c86b3e9dfad8d86651382ded618a3a125a859e73d17d084375e11aedc30c4ba/ScrapLink-Setup.exe",
+  "sha256": "5c86b3e9dfad8d86651382ded618a3a125a859e73d17d084375e11aedc30c4ba",
+  "size_bytes": 644082813,
+  "published_at": "2026-09-19T20:33:10.369545Z",
   "notes": [
-    "Companions answer name-only wakes faster using prepared greetings in their own voices.",
-    "Full questions after the name are still transcribed; mute and follow-up listening are preserved.",
-    "Fixed repeated screen-capture agreement windows when the first prompt was left unanswered.",
-    "Only one screen or image permission prompt can be open at a time.",
-    "Declining keeps automatic capture off, and the choice is remembered.",
-    "Permission responses from a closed app or changed account are ignored."
+    "Background screen checks now wait at least three minutes between ordinary scene changes, independently of companion talkativeness.",
+    "Direct visual questions start a fresh screen scan without waiting for the background cooldown.",
+    "Companions can request current screen evidence to answer you instead of asking you to upload a screenshot. Screen permission remains required.",
+    "Screen-access instructions stay available during long conversations, alongside your current activity and personal context.",
+    "New desktop usage records no longer count monthly token totals as individual requests. Existing historical records are preserved."
   ],
-  "signature": "oEBGH7I3unmmF7GTqMRC3WJULDEaPlK63tOPbsrKgFaikxqPlLWME8bwZN8V/OOahAU+QzQkFyjwkWZ+CXVvYIE3g7MDbIJhSbjg1DmqsMHwSU46hIEb7Bcu5FWQG1h8Iv1ipkp3XkbjTuwTsSuwMD0E6H7whbgSEGwakukJ3zDJe/8ug1gCI3GlPyiilYsJ4OI9MHdQ35iJFUtxY8uQjynyD+ym0tBxjA6fOtGtHaQ0h4bdVePGCf68OdcUfWIRrWhLepncsOYTIN7nXCGTgmb1J/Kl0urJqk8Y2z6SfYy02FK7ob5Wd79l9s9FQqKneEdmD5w70Kj0mA3n/6GtF0myttCsAcIgKHY731k1cwpko0+QoTlDkoK7PUffmz62r9QU8iS3KeDzQhip1RGJ1+88xGASYJdNilWu76xDyNPgJQmO0rc2lg+wsz1uplF8eqJC1BsRw+1OamR0S41HzNHHkd0gO2/ys488i43FFWBzfGgzwnfBFDZWfxruI5at"
+  "signature": "CGEpM6G3/HRgDKKVFYjIo0qQ3kMb2SSA5jp4TPTBnZQOxsG8uBT8Bo1/DlfGICfgqpgKDsJ06HC2hZLL/IdY4hRjaf0NESj+xvcLvgwlYOARcSTwbMQ1rUibBCGSAVDmY7mjVm8/Avg1Mc2pHwTscTLljy7/sV1X5TpwwdtWTciriZgEMzkKASpMJX54UYbdwLvREzKCtAVduLVChcBg/QFHRDZi/kYvSCnZsUhYUntrLKMU/shIGnGTuHHY00XzkBa4ERdMM+du+50SbxG5TRqkKOmLL40rehZEGDNO50AaysB//avNo1/L2UIjz3W42JdMN8405GuezTzodwBcHfE+wHxMa99xsIKh1/U6i/YEvMq3Y1leoQsFk8Nu62XkoShClVdMQm67J7FUjSHdxP8NwUbgy2Fud5RaQz4kYhpupVCtqrPcRjhsu8AEUNkch32LAgM+JCJc7Ox9gYqfIcyZeB4E5mfn+4vhYH4kDg6kBDcJG6z57Lnr/JKPQyjd"
 }

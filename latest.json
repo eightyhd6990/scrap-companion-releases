@@ -1,19 +1,21 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.19",
-  "release_sequence": 155,
+  "version": "0.51.21",
+  "release_sequence": 157,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/83252af49c439183a56e8418558853d9620db269a257b2d6dfce419824ab26b2/ScrapLink-Setup.exe",
-  "sha256": "83252af49c439183a56e8418558853d9620db269a257b2d6dfce419824ab26b2",
-  "size_bytes": 642999448,
-  "published_at": "2026-09-19T15:59:01.867878Z",
+  "package_url": "https://scrap-link.com/api/update/releases/d3eb91c122fde7da737a30af935991ae0aae1a1cc87ed249eae3ecd36eb5f129/ScrapLink-Setup.exe",
+  "sha256": "d3eb91c122fde7da737a30af935991ae0aae1a1cc87ed249eae3ecd36eb5f129",
+  "size_bytes": 644104299,
+  "published_at": "2026-09-19T17:48:31.503394Z",
   "notes": [
-    "Wake your companion by saying their name or Hey followed by their name, then ask your question naturally.",
-    "Removed added wake filters that could reject a recognized name or wait for a second recognizer to agree.",
-    "Restored the original Windows default microphone path without automatic wake volume boosting.",
-    "The mute button remains available in the main window and Ghost controls."
+    "Companions answer name-only wakes faster using prepared greetings in their own voices.",
+    "Full questions after the name are still transcribed; mute and follow-up listening are preserved.",
+    "Fixed repeated screen-capture agreement windows when the first prompt was left unanswered.",
+    "Only one screen or image permission prompt can be open at a time.",
+    "Declining keeps automatic capture off, and the choice is remembered.",
+    "Permission responses from a closed app or changed account are ignored."
   ],
-  "signature": "V7paRn642ij+z3sC1zuj9uhuRb9139w7a4mxMi2eBRKkxM5pEERUiKzeLm69csvC0EkNcGsMmbVpnPXZBK8HTKS7F+U6iez/T8CiQG5OOi2k4o7/IKANn3iFL7SnI6CY5fpY45Z0RtKlPJWOAWB5fNnpVPegqSqp13zb6EHrwIdBg/yloxtLvFoMZ11CDCZzAwXnYm6ZpNCM38v1tEvrLMsqbZbY7IOPHIpa7L7pzuYK/q9zXy8FqNVn/jmuR1qQdyvlwJC2EWSCUJciHGzXd91Ofq1FcJGK8YDBSKdC9DxfLE++uLwliwcb63f3zuBSy8ey+qFs7Vq4iFJqhN4We9wDlNpERzdJZTiRy3EM6SRgvvubGe8YExys0nxPrlZd01ULgKYX+zBhVhvAYhkwO/35qtLBsTtVsIVzpvvIDLb34rhvEaT9ycn60UwLayN8pNKNROe9a0tpxy4ZsC+D0Bd5ljzOkTQPMhi5NRuWCejj+/Godxfzvj4l2PIPv89b"
+  "signature": "oEBGH7I3unmmF7GTqMRC3WJULDEaPlK63tOPbsrKgFaikxqPlLWME8bwZN8V/OOahAU+QzQkFyjwkWZ+CXVvYIE3g7MDbIJhSbjg1DmqsMHwSU46hIEb7Bcu5FWQG1h8Iv1ipkp3XkbjTuwTsSuwMD0E6H7whbgSEGwakukJ3zDJe/8ug1gCI3GlPyiilYsJ4OI9MHdQ35iJFUtxY8uQjynyD+ym0tBxjA6fOtGtHaQ0h4bdVePGCf68OdcUfWIRrWhLepncsOYTIN7nXCGTgmb1J/Kl0urJqk8Y2z6SfYy02FK7ob5Wd79l9s9FQqKneEdmD5w70Kj0mA3n/6GtF0myttCsAcIgKHY731k1cwpko0+QoTlDkoK7PUffmz62r9QU8iS3KeDzQhip1RGJ1+88xGASYJdNilWu76xDyNPgJQmO0rc2lg+wsz1uplF8eqJC1BsRw+1OamR0S41HzNHHkd0gO2/ys488i43FFWBzfGgzwnfBFDZWfxruI5at"
 }

@@ -1,20 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.23",
-  "release_sequence": 159,
+  "version": "0.51.24",
+  "release_sequence": 160,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/ba103d74e582f7646d386eb93c7ee52d6ab7ac1d7605da5933c770fecb5899f2/ScrapLink-Setup.exe",
-  "sha256": "ba103d74e582f7646d386eb93c7ee52d6ab7ac1d7605da5933c770fecb5899f2",
-  "size_bytes": 644052962,
-  "published_at": "2026-09-20T18:07:04.771542Z",
+  "package_url": "https://scrap-link.com/api/update/releases/e6168d0ee1fb308700cc31c38517347507a9930efad83f091e74648a4a761289/ScrapLink-Setup.exe",
+  "sha256": "e6168d0ee1fb308700cc31c38517347507a9930efad83f091e74648a4a761289",
+  "size_bytes": 644049256,
+  "published_at": "2026-09-20T19:31:10.961569Z",
   "notes": [
-    "Ask for music, entertainment, or game videos and choose from up to three verified YouTube results with thumbnails and titles.",
-    "Click a video or say play first, second, or third. Music searches no longer inherit the game you are playing.",
-    "Videos that cannot play inside ScrapLink open on YouTube when selected.",
-    "Ask to open a webpage by name or give its HTTPS address. Named pages use current search results.",
-    "Repeated video searches reuse cached results without recording another paid search."
+    "The YouTube player now matches ScrapLink with a dark frame and cyan-purple accents.",
+    "Say play the next one, change the video, or play the previous video to switch between your results in the same player.",
+    "Moved windows remember their positions. The guide can move freely outside the main app.",
+    "Selecting a video closes the companion guide bubble while voice playback controls remain available."
   ],
-  "signature": "d8nUh0DVFk/ojE4PJ4JOX3A54CNPwwbmbxz2HCSZPjNr5G4Ci9XSK84NHzs+nZmdQros50brLRpsZwZBPWWMMxInitN9OOSYEaHUP/jHwwr2srxvlpzzxSJHjh2hvn+3l7RZufTmcF8UjDLpGGxN57FUEcw6A9IVX0iFdGgFxIV13PqB5ltY31Xq4izLu93MV1ADAp45i7Lo8Y1SsqIXcxBRy/hFKNJyCpS2ZLAqEDyN94CVH+C/u4kSXwlQVjla2v1cWuj5ch7PT6M7dKnCJzzeEmtzn+2LU+tKtFuuTy8p7QR99weTleMPlgcu3BFpOLXIXSwZ8+KUuUXTH2wStIrdzVYbpTkLUdRhtDZkj3QayjUZzKWc0cS4+ydcvqiFRy9bxK6NmEu0ZWl6sjLsIJ+nv8VaTTUcH7Lp2oMBlU9kFUAT3tp1GHb33K+Bdsmdj/xK5OnyCVpUdNxpi8/YsLhuL+C94coRopSODid794C7n5obLuuWV0Zbq2dHAcuH"
+  "signature": "QCt1E0aTQLowxZGlToYB9RWm3U/W3EUxkzPhm1tWkKWQ6q/+wGidREFYd96IrokWtoTYFyjZPmuAGTHjxQ5zyDQ3oB/ZjMnnjmq2jRGkbfiQiPKRRp6FQs2l8tQZxJFyVlt9NS4Djg+NZjC/QDDdUaTVJZElvLqo7yPUzkdAtw+a+vfpeiuRM8A3auZ5b6hxRsqUXj+5XFvTD6CBUBnd39SUI9XdFvW9KY16iio9YEezv1kui4MqCJf8Rf4Klli2lwqcKNxIngV3xhKu/TANl93hepvQvBysd9x/0/5/21KCEl1GmESCPpZcmGI3B2e2V3V42QZjOpITlRxNzAfurJHh8RGRjbLZoEUK+EYbuQRb6JxjfUorYRCljFecU6th55ARGhWu+VPYoq+RPjpXi6qyQJR44d1W5HfFs3NJS2ctJCsTyVV/n2ai1cHfxTu2OTH6tnOHEDg3ig7877+WGd1CWpZskRVgD30ly9tI7C2I2+wGgTpz6hMUBTX7POhg"
 }

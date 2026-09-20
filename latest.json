@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.24",
-  "release_sequence": 160,
+  "version": "0.51.26",
+  "release_sequence": 162,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/e6168d0ee1fb308700cc31c38517347507a9930efad83f091e74648a4a761289/ScrapLink-Setup.exe",
-  "sha256": "e6168d0ee1fb308700cc31c38517347507a9930efad83f091e74648a4a761289",
-  "size_bytes": 644049256,
-  "published_at": "2026-09-20T19:31:10.961569Z",
+  "package_url": "https://scrap-link.com/api/update/releases/b9aec898fee9da1fb30015237e55d6f9af79fac54d160cc175b4dc0889a62eac/ScrapLink-Setup.exe",
+  "sha256": "b9aec898fee9da1fb30015237e55d6f9af79fac54d160cc175b4dc0889a62eac",
+  "size_bytes": 644093740,
+  "published_at": "2026-09-20T21:42:34.223464Z",
   "notes": [
-    "The YouTube player now matches ScrapLink with a dark frame and cyan-purple accents.",
-    "Say play the next one, change the video, or play the previous video to switch between your results in the same player.",
-    "Moved windows remember their positions. The guide can move freely outside the main app.",
-    "Selecting a video closes the companion guide bubble while voice playback controls remain available."
+    "Pause objectives or save them for later without losing progress. Saying goodnight keeps them paused.",
+    "Ask for a reminder next time, then choose whether to resume. Say forget about that to remove the referenced objective.",
+    "Ask your companion to message a friend, start a Crew call, answer an incoming call, or hang up.",
+    "The companion asks which friend you mean when names overlap and confirms whether a call connected."
   ],
-  "signature": "QCt1E0aTQLowxZGlToYB9RWm3U/W3EUxkzPhm1tWkKWQ6q/+wGidREFYd96IrokWtoTYFyjZPmuAGTHjxQ5zyDQ3oB/ZjMnnjmq2jRGkbfiQiPKRRp6FQs2l8tQZxJFyVlt9NS4Djg+NZjC/QDDdUaTVJZElvLqo7yPUzkdAtw+a+vfpeiuRM8A3auZ5b6hxRsqUXj+5XFvTD6CBUBnd39SUI9XdFvW9KY16iio9YEezv1kui4MqCJf8Rf4Klli2lwqcKNxIngV3xhKu/TANl93hepvQvBysd9x/0/5/21KCEl1GmESCPpZcmGI3B2e2V3V42QZjOpITlRxNzAfurJHh8RGRjbLZoEUK+EYbuQRb6JxjfUorYRCljFecU6th55ARGhWu+VPYoq+RPjpXi6qyQJR44d1W5HfFs3NJS2ctJCsTyVV/n2ai1cHfxTu2OTH6tnOHEDg3ig7877+WGd1CWpZskRVgD30ly9tI7C2I2+wGgTpz6hMUBTX7POhg"
+  "signature": "k7IT9FDVhi9myLHQSuywaH9LGT9wHadlLTEsdFWjsZ2ASvkcoFx19aIJ/PAH49rpWVjudVvL4NPNTR1VDVWYVDvE8ZTU6WjNXZA5cXDPveBB2+oXBSZFHk3CPWgJZMw3Jp7FqJQBVjlubnxdggmy9Upehqt7nwvxXHmjs7rWdwJsylwF7PqzXN5ccm10fFyNhh8hRY5h6Zzo49pdBtJL2EPZHZaIJsexyi+jvuBkkYLSURHCQYmhwt+/+K5ZRH7qkQ4oyjDk6tj+jGqpx06WToJZ7n2yvz6q2G5p1Du+psXlDuNQyeXBfCypriVI9CLW24n2P4BZ91kzqq+r6rMBObeihjuRvwudi0JDVxcNHDjDOTg/r52fAYGxyOLy1uZuR8AzEeov07A1A6uIF42qLdks0cepFOB6YHCAh3Ealq3nMbbdKIXDQWddL1d9dRLxFI+R6xN1oxBfyTVfsM3ZRbRRFwD4dfSkJ95lHFOngtqLcmDyV9Q4LlHS5Z9beVzu"
 }

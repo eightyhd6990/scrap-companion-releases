@@ -1,19 +1,21 @@
 {
   "schema_version": 1,
   "minimum_updater_version": 1,
-  "version": "0.51.26",
-  "release_sequence": 162,
+  "version": "0.51.34",
+  "release_sequence": 170,
   "channel": "alpha",
   "package_type": "windows_installer",
-  "package_url": "https://scrap-link.com/api/update/releases/b9aec898fee9da1fb30015237e55d6f9af79fac54d160cc175b4dc0889a62eac/ScrapLink-Setup.exe",
-  "sha256": "b9aec898fee9da1fb30015237e55d6f9af79fac54d160cc175b4dc0889a62eac",
-  "size_bytes": 644093740,
-  "published_at": "2026-09-20T21:42:34.223464Z",
+  "package_url": "https://scrap-link.com/api/update/releases/f59c3265065d79eaf2e7350aafb3b06e67bba979a5850b5e055539eb6fb00f18/ScrapLink-Setup.exe",
+  "sha256": "f59c3265065d79eaf2e7350aafb3b06e67bba979a5850b5e055539eb6fb00f18",
+  "size_bytes": 645312184,
+  "published_at": "2026-09-23T16:22:57.095426Z",
   "notes": [
-    "Pause objectives or save them for later without losing progress. Saying goodnight keeps them paused.",
-    "Ask for a reminder next time, then choose whether to resume. Say forget about that to remove the referenced objective.",
-    "Ask your companion to message a friend, start a Crew call, answer an incoming call, or hang up.",
-    "The companion asks which friend you mean when names overlap and confirms whether a call connected."
+    "Clearer signup and profile editing with optional public details and understandable privacy controls.",
+    "Verified private email enrollment, signup confirmation and password recovery.",
+    "Shared personal memory and saved plans across all companions without mixing different accounts.",
+    "Safer forgetting with previews for broader removal and Undo for accidental memory changes.",
+    "Includes the latest companion wake and response improvements while preserving mute controls.",
+    "Preserves existing accounts, conversations, memories, settings and verified offline speech."
   ],
-  "signature": "k7IT9FDVhi9myLHQSuywaH9LGT9wHadlLTEsdFWjsZ2ASvkcoFx19aIJ/PAH49rpWVjudVvL4NPNTR1VDVWYVDvE8ZTU6WjNXZA5cXDPveBB2+oXBSZFHk3CPWgJZMw3Jp7FqJQBVjlubnxdggmy9Upehqt7nwvxXHmjs7rWdwJsylwF7PqzXN5ccm10fFyNhh8hRY5h6Zzo49pdBtJL2EPZHZaIJsexyi+jvuBkkYLSURHCQYmhwt+/+K5ZRH7qkQ4oyjDk6tj+jGqpx06WToJZ7n2yvz6q2G5p1Du+psXlDuNQyeXBfCypriVI9CLW24n2P4BZ91kzqq+r6rMBObeihjuRvwudi0JDVxcNHDjDOTg/r52fAYGxyOLy1uZuR8AzEeov07A1A6uIF42qLdks0cepFOB6YHCAh3Ealq3nMbbdKIXDQWddL1d9dRLxFI+R6xN1oxBfyTVfsM3ZRbRRFwD4dfSkJ95lHFOngtqLcmDyV9Q4LlHS5Z9beVzu"
+  "signature": "QRCcKknCCH4vmMbQvKlOiN0q/MgcGfVA4efxTsRYfd+TBHVx89GY5XKCRIdmy9zoEAm17iG/20MPQQPwqM0FSEdaKXMX9SaMi7VMiVW81c+GUquDYMe7qQqOIdAIGPFQU8c/k+/zIX4/b6IqFyeB4GHR9C+SoE6GTKqkQrvKfz/G85Zbk58vbqMh+Ctf/Icz62QtPg36PIYrkZCGIHySoARAwHQ3Ct33nm18QJFXQ5AGeAWq/m7PySgVnOvIVz8SIACaiX2LVgdrLHX5oo2PyXqaZdGyWNQ+VcQSHhL6ybkdoDseg/v8LBUTr3V4mVBxR2VYnZNbxoDM3bNpjsOVr4BPxPCEzkUOicOxDD9k0F1ibJhCT3AYsftUH/2eCdniv4yDxecwdgkCjxvM/T/RW4/lfil7PPPMv2G2oeneu4whwpuYHkLMoaGAcV3jnyhufOKR0Be7y5pmRlKXjRr00rSW0rcJaKGhGFDHPInY6uijys9+7KuZ/pD4i8EWLc+O"
 }
